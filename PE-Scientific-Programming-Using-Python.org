@@ -1,0 +1,137 @@
+* <<<CP1351>>> SCIENTIFIC PROGRAMMING USING PYTHON
+:properties:
+:author: T T Mirnalinee, J Bhuvana
+:date: 29 June 2018
+:end:
+
+#+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 2 | 0 | 2 | 3 |
+
+# The course need to be made lighter (RSM, 2 July 2018).
+
+** Course Objectives
+- To learn fundamental concepts in Python programming such as
+  variables, flow control structures and to work with lists and
+  sequence data.
+- To write Python functions to facilitate code reuse.
+- To introduce array computing and to work with dictionaries and
+  strings.
+- To introduce mathematical modeling and to work with discrete
+  calculus, differentiation and integration.
+
+{{{unit}}}
+|Unit I|Python Fundamentals|9| 
+Introduction -- Variables -- Objects -- Arithmetic operators --
+Importing a module -- Interactive computing -- Python shell -- Type
+conversion -- Symbolic computing; Loops and lists: While loop -- For
+loops -- Lists -- List comprehension -- Nested lists -- Extracting
+sublists -- Tuples.
+
+{{{unit}}}
+|Unit II|Functions and branching, File handling|9| 
+Functions and branching: Functions -- Local and global variables --
+Multiple arguments -- Multiple return values -- Functions as arguments
+-- Branching: If-else blocks -- Inline if tests.  User input: Reading
+keyboard input -- Reading from the command line -- Reading data from
+file -- Writing data to file.
+#+BEGIN_COMMENT
+User input and error handling: Reading keyboard input -- Reading from
+the command line -- Reading data from file -- Writing data to file --
+Handling errors -- Exception handling -- Raising exceptions -- Making
+modules.
+#+END_COMMENT
+
+{{{unit}}}
+|Unit III|Arrays, Dictionaries|8 | 
+Array computing and curve plotting : Vectors -- Basics of numerical
+Python arrays -- vectorization -- Curve plotting -- Matrices and
+arrays.  Dictionaries: Making dictionaries -- Dictionary
+operations.
+# advanced vectorization of functions --  
+
+{{{unit}}}
+|Unit IV| Strings, Classes  |10 | 
+Strings: Operations on strings -- Reading and writing spreadsheet
+files; Introduction to classes: Simple function classes --
+Representing a function as a class -- Special methods -- Adding
+objects -- Static methods and attributes.
+#+BEGIN_COMMENT
+Random numbers: Drawing random numbers -- Drawing integers --
+Computing probabilities -- Monte Carlo integration -- Random walk in
+one space and two space dimensions.
+#+END_COMMENT
+ 
+{{{unit}}}
+|Unit V|Sequences and difference equations|9 |
+Mathematical models based on difference equations; Introduction to
+discrete calculus: Discrete functions -- Differentiation becomes
+finite differences -- Integration becomes summation -- Taylor series;
+Introduction to differential equations -- Exponential growth --
+Logistic growth.
+#+BEGIN_COMMENT
+Object-Oriented Programming: Inheritance -- Superclass for defining an
+interface -- Class hierarchies;
+#+END_COMMENT
+
+** Suggested Experiments
+1. Given the list L find the min, max and median value. Create a list
+   with only the elements at even indexes and re-compute min, max and
+   median values.
+2. Write a script to build a new list containing the square roots of
+   all the numbers in the given list.  Implement it with list
+   comprehension.
+3. Consider the matrix M and the vector v. What is the matrix-vector
+   product M∗v and square of M?
+4. Write a function sin(M) that computes it with sin series.
+5. Write a function to find the matrix rank by computing the number of
+   numerical non-zero singular values.
+6. Write a program that counts the number of lines and words in a
+   file, printing the resulting counts to the terminal.
+7. Write a method =simplify= for the class RationalNumber. This method
+   should return the simplified fraction as a tuple.
+8. Write a program to count the characters in a string and store it as
+   a dictionary, using the characters as the keys and the counts as values.
+9. Create a string containing at least five words and store it in a
+   variable.
+   1) Convert the string to a list of words using the split
+      method.
+   2) Sort the list into reverse alphabetical order using some of the
+      list methods.
+10. Define a class called Rectangle with width and height as
+    attributes.  Create a member attribute corner which itself is an
+    object of another class Point with x and y as attributes. Add an
+    equals method to the Rectangle class and perform a deep equality
+    check. Add a method called move to Rectangle class to perform a
+    translation.
+11. Write a program to randomly generate a list with 5 numbers, which
+    are divisible by 5 and 7 , between 1 and 1000 inclusive. Use
+    random.sample() to generate a list of random values.
+12. Solve the ODE problem: u'= 2u − 1, u(0) = 2, t \in [0, 6] using
+    the Forward Euler method. Choose \delta t = 0.25. Plot the
+    numerical solution together with the exact solution u(t) = 1/2 +
+    3/2 e^{2t}.
+13. Write a program for Taylor series for e^x with n terms for various
+    values of h and print the error of the approximations.
+
+\hfill *Total:60*
+
+** Course Outcomes
+After the completion of this course, students will be able to: 
+- Write Python programs using decision and repetition structures in
+  program design. (K3)
+- Demonstrate a basic knowledge of numerical computing using
+  functions, error handling and file handling. (K3)
+- Develop applications to demonstrate the understanding of arrays
+  dictionaries and strings. (K3)
+- Write code in Python to solve problems requiring the discrete
+  calculus, Differentiation, Integration and scientific
+  simulations. (K3)
+      
+** References
+1.  Hans Petter Langtangen, ``A Primer on Scientific Programming with
+   Python'', 4th Edition, Springer, 2016.
+
+ 

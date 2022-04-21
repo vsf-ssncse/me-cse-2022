@@ -1,0 +1,86 @@
+* <<<CP1201>>> MODERN OPERATING SYSTEMS
+:properties:
+:author: H Shahul Hamead, S Lakshmi Priya
+:date: 28 June 2018
+:end:
+
+#+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 2 | 4 |
+
+** Course Objectives
+- To understand the design of operating systems.
+- To learn about the contemporary operating systems.
+- To explore the design of mobile operating systems.  
+- To apply the knowledge of scheduling in real-time problems.  
+- To apply the knowledge of resource handling techniques on real-time
+  problems.
+
+{{{unit}}}
+| Unit I | Virtualization and Multiprocessor Systems | 9 |
+History -- Requirements -- 1 and Type 2 Hypervisors -- Techniques for
+Efficient Virtualization -- Microkernels -- Memory and I/O
+Virtualizations -- Clouds -- Case Study: Vmware.
+
+{{{unit}}}
+| Unit II | Design of Mobile OS | 9 |
+Android and Google -- History of Android -- Design Goals --
+Architecture -- Linux Extensions -- Dalivik -- Binder IPC -- Android
+Applications -- Intents -- Application Sandboxes-- Security -- Process
+Model -- Typical System Architecture -- SoC -- Memory layout and
+Mapping -- Development setup -- Evaluation Boards.
+
+{{{unit}}}
+| Unit III | Scheduling in Real-time Systems | 9 |
+Introduction -- Applications -- Basic Model -- Characteristics of Real
+time system -- Safety -- Task types -- Timing Constraints -- Concepts
+and Characteristics of types of Real Time Task Scheduling -- Clock
+Driven Scheduling -- Event Driven Scheduling -- Earliest Deadline
+First -- Rate Monotonic Algorithm.
+
+{{{unit}}}
+| Unit IV | Resource Handling Techniques in Real-time Systems | 9 |
+Resource Sharing -- Priority Inversion -- Priority Inheritance
+Protocol -- Highest Locker Protocol -- Priority Ceiling Protocol--
+Types of Priority Inversions -- Important Features -- Issues and Task
+dependencies.
+
+{{{unit}}}
+| Unit V | Operating Sytem Design | 9  |
+The Nature of the design Problem -- Interface Design --
+Implementation-- Performance -- Project Management -- Trends in
+Operating System Design
+
+** Suggestive Exercises
+1. Installation of Vmware hypervisor
+2. Performing Migratations between VMs 
+3. Implementation of Rata Monotonic Algorithm
+4. Implementation of Cyclic Scheduler
+5. Implemetation of Priotity Ceiling Protocol
+
+\hfill *Total: 75*
+
+** Course Outcomes
+After the completion of this course, students will be able to: 
+- Apply various techniques related to virtualization and
+  multi-processor systems for similar problems (K3).
+- Describe the build of Android Operating System (K2).
+- Apply scheduling problems in real time applications (K3).
+- Apply resource handling problems in real time environment (K3).
+- Install and work with modern OS and comprehend its practical
+  design (K3).
+      
+** References
+1. Andrew S. Tanenbaum and Herbert Bos, ``Modern Operating Systems'',
+   4th Edition, Pearson, 2015 (Units 1, 2 and 5)
+2. Rajib Mall, ``Real Time Systems: Theory and Practice'', Pearson,
+   2007 (Units 4 and 5)
+3. Karim Yaghmour, ``Embedded Android'', O-Rielly, 2013 (Unit 2)
+4. Matthew Portnoy, ``Virtualization Essentials'', Wiley, 2012
+5. Jerome Saltzer M. and Frans Kaashoek, ``Principles of Computer
+   System Design'', 1st Edition, Elsevier, 2009
+6. Joshua Drake et al, ``Android Hackers Handbook'', Wiley, 2014
+7. Francis Cottet, Joelle Delacroix, et al, ``Scheduling in Real-Time
+   Systems'', Wiley, 2002

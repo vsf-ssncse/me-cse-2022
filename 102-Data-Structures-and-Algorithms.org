@@ -1,0 +1,99 @@
+* 
+:properties:
+:author: S Kavitha, B Bharathi, R. Kanchana, R.S. Milton
+:date: 29 June 2018
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE | COURSE TITLE                            | L | T | P | C |
+|      | ADVANCED DATA STRUCTURES AND ALGORITHMS | 3 | 0 | 0 | 3 |
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
+** R2021 Changes :noexport:
+  1. This topic was added
+  2. That topic is not important
+
+** COURSE OBJECTIVES
+- To understand the use of algorithms in computing.
+- To learn develop algorithms using hierarchical data structures.
+- To select and use data structures and algorithms appropriate to the
+  problems.
+- To study about NP hard and NP completeness of problems. 
+
+{{{unit}}}
+| UNIT I | ROLE OF ALGORITHMS IN COMPUTING | 9 |
+Algorithms -- Analyzing algorithms -- Designing algorithms -- Growth
+of functions: Asymptotic notation -- Standard notations and common
+functions; Recurrences: The substitution method -- The recursion-tree
+method -- The master method for solving recurrences.
+
+{{{unit}}}
+| UNIT II | HIERARCHICAL DATA STRUCTURES | 9 |
+Binary search trees: Basics -- Query, Insertion and Deletion;
+Red-black trees: Properties of Red-black trees -- Rotations --
+Insertion -- Deletion; B-Trees: Basic operations on B-Trees; Fibonacci
+heaps: Structure -- Mergeable-heap operations -- Decreasing a key and
+deleting a node; Disjoint-set operations -- Disjoint-set forests.
+
+{{{unit}}}
+| UNIT III | GRAPHS | 9  |
+Elementary graph algorithms: Representations of graphs --
+Breadth-first search -- Depth-first search -- Topological sort --
+Strongly connected components; Single-source shortest paths:
+Bellman-Ford algorithm; Single-source shortest paths in directed
+acyclic graphs: Dijkstra's algorithm; All-pairs shortest paths:
+Floyd-Warshall algorithm
+
+{{{unit}}}
+| UNIT IV | ALGORITHM DESIGN TECHNIQUES | 10 |
+Greedy Algorithms: The job/event scheduling problem --
+Minimum-spanning-tree problem; Recursive backtracking: Developing
+recursive backtracking algorithm -- Pruning branches -- N-queens
+problem; Developing dynamic programming algorithms -- Subtle points --
+Decreasing time and space -- Longest common subsequence problem,
+Weighted job/Event Scheduling Problem
+
+{{{unit}}}
+| UNIT V | NP COMPLETE AND NP HARD | 8 |
+Reductions and NP -- Completeness -- Satisfiability -- Proving
+NP-Completeness -- 3-Coloring -- Bipartite Matching.
+
+\hfill *Total Periods: 45*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to: 
+1. Apply asymptotic notations and methods to find the time complexity of linear and recursive algorithms. (K3)
+2. Develop optimal algorithms using tree data structures (K3)
+3. Develop optimal algorithms using graph data structures. (K3) 
+4. Solve problems using suitable design techniques (K4) 
+5. Identify NP type problems. (K2) 
+
+      
+** REFERENCES
+1. Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford
+   Stein, ``Introduction to Algorithms'', Third Edition,
+   Prentice-Hall, 2012
+2. Jeff Edmonds, ``How to Think about Algorithms'', Cambridge
+   University Press, 2008
+3. Alfred V. Aho, John E. Hopcroft, Jeffrey D. Ullman, ``Data
+   Structures and Algorithms'', Pearson Education, Reprint 2006.
+4. Robert Sedgewick and Kevin Wayne, ``Algorithms'', Fourth Edition,
+   Pearson Education, 2012
+5. S. Sridhar, ``Design and Analysis of Algorithms'', First Edition,
+   Oxford University Press, 2014
+
+** CO TO PO/PSO MAPPING
+
+| PO/PSO | 1 | 2 | 3 | 4 |
+|--------+---+---+---+---|
+| CO1    |   |   |   |   |
+| CO2    |   |   |   |   |
+| CO3    |   |   |   |   |
+| CO4    |   |   |   |   |
+| CO5    |   |   |   |   |
+|--------+---+---+---+---|
+| Course |   |   |   |   |

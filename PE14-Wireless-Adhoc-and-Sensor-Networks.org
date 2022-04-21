@@ -1,0 +1,113 @@
+* 
+:properties:
+:author: Dr. S. V. Jansi Rani and Dr. V. S. Felix Enigo
+:date: 10-03-2021
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE                       | L | T | P | E | C |
+| UCS2722 | WIRELESS ADHOC AND SENSOR NETWORKS | 3 | 0 | 0 | 0 | 3 |
+
+** R2021 CHANGES :noexport:
+1. Removed unit 5 (security)
+2. included topology control
+
+** COURSE OBJECTIVES
+- To understand the working of MAC Protocols and routing in  ad hoc networks
+- To learn the Transport layer protocols and QOS in ad hoc networks
+- To understand the working of topology control and routing protocols in WSN
+- To be familiar with the protocols for MAC and localisation in WSN
+- To learn the data centric and content based networking, transport layer protocols and QOS in WSN
+
+
+{{{unit}}}
+|UNIT I | MAC AND ROUTING IN AD HOC NETWORKS | 9 |
+Introduction -- Issues and challenges in ad hoc networks -- MAC Layer
+Protocols for wireless ad hoc networks -- Contention-Based MAC
+protocols -- MAC Protocols using Directional Antennas --
+Multiple-Channel MAC Protocols -- Power-Aware MAC Protocols -- Routing
+in Adhoc Networks -- Design Issues -- Proactive, Reactive and Hybrid
+Routing Protocols.
+
+{{{unit}}}
+|UNIT II | TRANSPORT AND QOS IN AD HOC NETWORKS | 9 |
+TCP's challenges and Design Issues in Ad Hoc Networks -- Transport
+protocols for ad hoc networks -- Issues and Challenges in providing
+QoS -- MAC Layer QoS solutions -- Network Layer QoS solutions -- QoS
+Model.
+
+{{{unit}}}
+| UNIT III | WSN:  PROTOCOLS FOR MAC AND LOCALIZATION | 9 |
+Fundamentals of MAC Protocols; Types of MAC Protocols -- Low duty
+cycle protocols -- Contention-based protocols -- Schedule-based
+protocols; IEEE 802.15.4 MAC protocol Localization and Positioning:
+Properties -- Approaches -- Mathematical basis; Single Hop
+Localization -- Positioning in multichop environments -- Impact of
+anchor placement.
+
+{{{unit}}}
+| UNIT IV | WSN:  TOPOLOGY CONTROL  AND ROUTING PROTOCOLS | 9 |
+Topology Control: Controllingtopology in flat networks --Hierarchical
+networks by domination sets and clustering -- Combine hierarchical
+topologies and power control.  Routing Protocols: Unicast -- Broadcast
+-- Multicast -- Geographical routing -- Mobile nodes
+
+{{{unit}}}
+|UNIT V | WSN: DATA CENTRIC AND CONTENT BASED NETWORKING, TRANSPORT LAYER AND QOS | 9 |
+Data-Centric and Contention-Based Networking: Data-centric routing --
+Data aggregation -- Data-centric storage.  Transport Layer and Quality
+of Service: Coverage and deployment -- Reliaable data transport --
+Single packet delivery -- Block delivery -- Congestion Control and
+rate control -- Operating systems for wireless sensor networks --
+Examples.
+
+\hfill *Total Periods: 45*
+
+** COURSE OUTCOMES
+After completion of this course, the student will be able to
+1. Explain the working of MAC Protocols and routing in ad hoc networks
+   (K2)
+2. Select various Transport layer protocols and QOS in ad hoc networks
+   as per requirements(K3)
+3. Select different topologies and routing protocols based on the
+   application requirement in WSN (K3)
+4. Choose appropriate localisation and routing protocols for the given
+   scenario in WSN (K3)
+5. Choose appropriate networking approach, transport layer protocol
+   and QoS in WSN (K3)
+6. Choose and implement appropriate protocol for wireless adhoc or
+   Sensor networks as per the requirements using a Simulator (K4).
+
+
+** TEXT BOOKS 
+1. C Siva Ram Murthy, B S Manoj, ``Ad Hoc Wireless Networks --
+   Architectures and Protocols'', Pearson Education, 2006.
+2. Holger Karl, Andreas Willing,``Protocols and Architectures for
+   Wireless Sensor Networks'', John Wiley & Sons, 2005.
+
+** REFERENCES
+1. Subir Kumar Sarkar, T G Basavaraju, C Puttamadappa, ``Ad Hoc Mobile
+   Wireless Networks'', Auerbach Publications, 2008.
+2. Carlos De Morais Cordeiro, Dharma Prakash Agrawal, ``Ad Hoc and
+   Sensor Networks: Theory and Applications (2nd Edition)'', World
+   Scientific Publishing, 2011.
+3. Waltenegus Dargie, Christian Poellabauer, ``Fundamentals of
+   Wireless Sensor Networks Theory and Practice'', John Wiley and
+   Sons, 2010.
+4. Xiang-Yang Li , ``Wireless Ad Hoc and Sensor Networks: Theory and
+   Applications'', Cambridge university Press, 2008.
+5. http://vlabs.iitkgp.ac.in/ant/7/theory
+
+** CO TO PO/PSO MAPPING
+
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---|
+| CO1    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |
+| CO2    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |
+| CO3    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |
+| CO4    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |
+| CO5    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |
+| CO6    | 3 | 3 |   |   | 3 |   |   |   |   |  3 |    |    | 3 |   |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---|
+| Course | 3 | 3 |   |   | 3 |   |   |   |   |  3 |    |    | 3 |   |

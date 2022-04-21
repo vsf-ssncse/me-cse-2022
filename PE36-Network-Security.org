@@ -1,0 +1,76 @@
+* <<<CP1238>>> NETWORK SECURITY
+:properties:
+:author: J Bhuvana / V. Balasubramanian
+:date: 12 July 2018
+:end:
+
+#+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+ 
+** Course Objectives
+- To understand the various attacks.
+- To study about an essential of computer security.
+- To acquire knowledge on TCP/IP security, firewalls, IPSec, Virtual
+  Private Networks, intrusion detection systems.
+- To understand how various security mechanisms work, and correlate
+  these security mechanisms with security principles.
+- To apply security principles to solve problems.
+
+{{{unit}}}
+| Unit I | TCP Attacks | 9 |
+Packet Sniffing and Spoofing: Packet Sniffing -- Packet Spoofing --
+Snoofing: Sniffing and Spoofing; Attacks on the TCP Protocol: TCP
+Protocol Working -- SYN Flooding Attack -- TCP Reset Attack -- TCP
+Session Hijacking Attack.
+
+{{{unit}}}
+| Unit II | Authentication and Standards | 9 |
+Authentication: Authentication Systems -- Authentication of People --
+Symmetric Key Distribution Using Symmetric Encryption -- Kerberos V4,
+V5.
+
+{{{unit}}}
+| Unit III | Public Key Infrastructure | 9 |
+Attack on Public Key Cryptography -- Public Key Certificates: X.509
+Authentication services -- Attacks on PKI -- Types of Digital
+Certificates.
+
+{{{unit}}}
+| Unit IV | Security Practice & System Security | 9 |
+Internet Firewalls for Trusted System: Roles of Firewalls -- Types of
+Firewalls -- Netfilter -- Iptables -- Firewall design Principles -- DNS
+Attacks -- Cache Poisoning -- SET for E-Commerce
+Transactions. Intruder -- Intrusion detection system -- Virus and
+related threats – Countermeasures.
+
+{{{unit}}}
+| Unit V | E-Mail, IP & Web Security | 9 |
+E-mail Security: Security Services for E-mail-attacks possible through
+E-mail -- establishing keys privacyauthentication of the source --
+Message Integrity-Non-repudiation -- Pretty Good Privacy -- S/MIME;
+IPSecurity: Overview of IPSec -- IP and IPv6 -- Authentication Header
+-- Encapsulation Security Payload (ESP) -- Internet Key Exchange
+(Phases of IKE, ISAKMP/IKE Encoding); Web Security: SSL/TLS Basic
+Protocol -- Computing the keys -- Client authentication -- PKI as
+deployed by SSLAttacks fixed in v3 -- Exportability-Encoding-Secure
+Electronic Transaction (SET).
+
+\hfill *Total: 45*
+
+** Course Outcomes
+Upon the completion of the course the students should be able to:
+- Classify and discuss various attacks (K3).
+- Design Secure applications (K3).
+- Inject secure coding in the developed applications (K3).
+
+** References
+1. William Stallings, ``Network Security Essentials: Applications and
+   Standards'', Sixth Edition, Pearson, 2017.
+2. Charlie Kaufman, Radia Perlman and Mike Speciner , ``Network
+   Security: Private Communication in a Public World'', Second
+   Edition, Pearson Education, 2017.
+3. Wenliang Du, ``Computer Security: A Hands-on Approach'',
+   CreateSpace Independent Publishing Platform, First Edition, 2017.

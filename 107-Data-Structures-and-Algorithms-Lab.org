@@ -1,0 +1,54 @@
+* <<<PCP1197>>> ADVANCED DATA STRUCTURES AND ALGORITHMS LAB
+:properties:
+:author: S Kavitha, B Bharathi, R. Kanchana, R.S. Milton
+:date: 28 June 2018
+:end:
+
+#+startup: showall
+
+{{{credits}}}
+|L|T|P|C|
+|0|0|4|2|
+
+** Course Objectives
+- To learn advanced tree and graph structures.
+- To learn the need for heap and disjoint set representations.
+- To understand algorithm design techniques and apply suitable
+  techniques for problems.
+
+** Suggested Programming Languages
+- C, Java or Python
+
+** Suggestive Exercises
+1. Insertion sort and merge sort with complexity analysis
+2. Application of binary search trees 
+3. Red-Black Trees
+4. Min heaps, Fibonacci heaps 
+5. Disjoint sets
+6. Application of graph traversals -- BFS and DFS 
+7. Single source Shortest Path Algorithms (e.g. Dijkstra's and Bellman
+   Ford algorithms)  
+8. All-pairs Shortest Path Algorithms: (e.g. Floyd's algorithm)
+9. Dynamic programming (e.g. Longest common subsequence, 0/1 Knapsack)
+10. Recursive backtracking (e.g. N-Queen’s problem)
+11. Greedy technique (e.g. Job/event scheduling, Minimum spanning tree)
+12. Mini project: For a given application, identify and solve using
+    suitable data structures and design techniques
+ 
+\hfill *Total: 60*
+
+** Course Outcomes
+After the completion of this course, students will be able to:
+- Implement basic data structures and sorting algorithms (K3).
+- Implement algorithms using tree and graph structures (K3).
+- Design and develop efficient algorithms for problems, using algorithm
+  design techniques (K4).
+
+#+NAME: co-po-mapping
+|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
+|                |    |  K3 |  K6 |  K6 |  K6 |  K6 |     |     |     |     |      |      | 
+| CO1            | K3 |   3 |   2 |   2 |  2  |     |   3 |     |     |     |      |      |
+| CO2            | K3 |   3 |   2 |   2 |  2  |     |    3|     |     |     |      |      |
+| CO3            | K3 |   3 |   2 |   2 |  2  |     |    3|     |     |     |      |      |
+| Score          |    |  9  |   6 |   6 |  6  |     |    9|     |     |     |      |      |
+| Course Mapping |    |   3 |   2 |   2 |  2  |     |    3|     |     |     |      |      |

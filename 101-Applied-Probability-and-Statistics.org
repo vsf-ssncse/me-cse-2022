@@ -1,0 +1,81 @@
+* <<<PMA1177>>> APPLIED PROBABILITY AND STATISTICS
+:properties:
+:author: S Narasimman, P Venugopal
+:date: 28 June 2018
+:end:
+
+#+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 4 | 0 | 0 | 4 |
+
+** Course Objectives
+    - To provide a foundation on topics in applied probability and
+      statistical methods needed for modern optimization methods and
+      risk modeling.
+    - To address the issues and the principles of estimation theory,
+      testing of hypothesis and multivariate analysis.
+
+{{{unit}}}
+|Unit I|Probability and Random Variables|12|
+Random variables -- Probability function -- Moments -- Moment
+generating functions and their properties -- Binomial, Poisson,
+Geometric, Uniform, Exponential, Gamma and Normal distributions.
+
+{{{unit}}}
+|Unit II|Two Dimensional Random Variables |12|
+Joint distributions -- Marginal and conditional distributions --
+Transformation of two dimensional randomvariables -- Correlation and
+regression
+
+{{{unit}}}
+|Unit III|Estimation Theory|12|
+Unbiased estimators -- Method of moments -- Maximum likelihood
+estimation -- Curve fitting by principle of least squares --
+Regression lines.
+
+{{{unit}}}
+|Unit IV|Testing of Hypothesis|12|
+Large sample test based on Normal distribution for single mean and
+difference of means -- Tests based on t, and F distributions for
+testing means and variances -- Contingency table (Test for
+Independency) -- Goodness of fit.
+
+{{{unit}}}
+|Unit V|Multivariate Analysis|12|
+Random vectors and matrices -- Mean vectors and covariance matrices --
+Multivariate normal density and its properties -- Principal components
+-- Population principal components -- Principal components from
+standardized variables
+
+\hfill *Total: 60*
+
+** Course Outcomes
+After the completion of this course, students will be able to
+ demonstrate competency in:
+- Basic probability axioms and rules and the moments of discrete and
+  continuous random variables (K3).
+- Consistency, efficiency and unbiasedness of estimators, method of
+  maximum likelihood estimation and Central Limit Theorem (K3).
+- Use statistical tests in testing hypotheses on data (K3).
+- Perform exploratory analysis of multivariate data, such as
+  multivariate normal density, calculating descriptive statistics,
+  testing for multivariate normality (K3).
+- Use of the appropriate and relevant, fundamental and applied
+  mathematical and statistical knowledge, methodologies and modern
+  computational tools (K3).
+
+** References
+   1. Devore J. L., ``Probability and Statistics for Engineering and
+      the Sciences'', 8th Edition, Cengage Learning, 2014.
+   2. Dallas E. Johnson, ``Applied Multivariate Methods for Data
+      Analysis'', Thomson and Duxbury Press, 1998.
+   3. Gupta S. C. and Kapoor V. K., ``Fundamentals of Mathematical
+      Statistics'', Sultan and Sons, New Delhi, 2001.
+   4. Johnson R. A., Miller I. and Freund J., ``Miller and Freund's
+      Probability and Statistics for Engineers'', Pearson Education,
+      Asia, 8th Edition, 2015.
+   5. Richard A. Johnson and Dean W. Wichern, ``Applied Multivariate
+      Statistical Analysis'', 5th Edition, Pearson Education,
+      Asia, 2002.

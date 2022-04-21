@@ -1,0 +1,97 @@
+* <<<CP1202>>> INTERNET OF THINGS
+:properties:
+:author: V S Felix Enigo, K R Sarath Chandran
+:date: 29 June 2018
+:end:
+
+#+startup: showall
+
+   ** CO PO MAPPING 
+#+NAME: co-po-mapping
+|                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
+|                |    | K3 | K6  |  K6 |  K6 | K6  |     |     |     |     |      |      |     
+| CO1            | K2 |  2 |     |     |     |     |     |     |     |     |      |      |    
+| CO2            | K2 |  2 |     |     |     |     |     |     |     |     |      |      |  
+| CO3            | K2 |  2 |     |     |     |     |     |     |     |     |      |      |    
+| CO4            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
+| CO5            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
+| Total          |    | 12 |  4  |  4  |  4  |  4  |     |     |     |     |      |      |   
+| Course Mapping |    |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
+
+{{{credits}}}
+| L | T | P | C |
+| 2 | 0 | 2 | 3 |
+
+** Course Objectives
+- To understand the fundamentals of Internet of Things.
+- To learn about the basics of IOT protocols .
+- To build a small low cost embedded system using Arduino/Raspberry Pi.
+- To apply the concept of Internet of Things in real world scenarios. 
+
+
+{{{unit}}}
+| Unit I | Introduction | 6 |
+M2M and IoT Technology Fundamentals -- Devices and gateways, Local and wide area networking, Data management, Business processes in IoT, Everything as a Service (XaaS), M2M and IoT Analytics, Knowledge Management. IoT-An Architectural Overview -- Building an architecture, An IoT architecture outline
+
+{{{unit}}}
+| Unit II | IoT Reference Architecture | 6 |
+IoT Architecture: State of the Art -- Reference Model: Domain model -- information model --functional model -- communication model -- IoT Reference Architecture: Functional View -- Information View 
+
+
+{{{unit}}}
+| Unit III | IoT Protocols | 6 |
+Protocol Standardization for IoT -- Efforts –- M2M and WSN Protocols -– SCADA and RFID Protocols -– Unified Data Standards -– Protocols -– IEEE 802.15.4 -– Zigbee Architecture -– Network layer -- 6LowPAN -- CoAP  
+
+{{{unit}}}
+| Unit IV | Building IoT Systems | 6 |
+Logical design using Python -- IoT Physical devices and Endpoints: Basic building blocks of IoT Device -- Raspberry Pi -- Linux on Raspberry Pi  -- Interfaces --  Programming Raspberry Pi with Python -- Other IoT Platform:  Arduino.
+
+
+{{{unit}}}
+| Unit V | Case Studies and Real World Applications | 6 |
+Home Automation -- Weather monitoring  -- Smart irrigation -- Data Analytics for IoT -- Software & Management Tools for IoT Cloud Storage Models & Communication APIs -- Cloud for IoT 
+
+
+** Suggestive Exercises (using Arduino / Raspberry Pi Board)
+1. Study of Arduino and Raspberry Pi Board
+2. LED blinking and fading 
+3. Push button and LDR interfacing 
+4. IR and buzzer interfacing 
+5. DC motor interfacing
+6. Joystick interfacing
+7. Stepper motor interfacing
+8. PIR motion sensor interfacing
+9. IMU interfacing
+10. Temperature and humidity sensor interfacing
+11. Application development using Arduino / Raspberry Pi using various
+    sensors (Examples: Smart parking, Smart traffic control)
+12. Application development by integrating Arduino and Raspberry Pi in
+    cloud platform (Examples: Basic home automation, Weather
+    monitoring)
+
+\hfill *Total: 60*
+
+** Course Outcomes
+After completion of this course, students should be able to:
+- Understand the basic buiding blocks and data management in Internet of Things (K2).
+- Understand different IoT architectures (K2).
+- Understand various protocols for IoT  (K2).
+- Implement a low cost IoT system using Arduino/Rasperry-Pi (K3).
+- Implement an IoT application in cloud environment (K3).
+
+** Course Outcomes (Batch 2021-2023)
+After completion of this course, students should be able to:
+- Explain the basic building blocks and data management in Internet of Things (K2). 
+- Explain different IoT architectures (K2). 
+- Summarize various protocols for IoT (K2).
+- Develop a low cost IoT system using Arduino/Raspberry-Pi (K3). 
+- Build an IoT application in a cloud environment (K3).
+
+** References
+1. Jan Holler, Vlasios Tsiatsis, et al, ``From Machine-to-Machine to the Internet of Things -- Introduction to a New Age of Intelligence'', Elsevier, 2014.
+2. Honbo Zhou, ``The Internet of Things in the Cloud: A Middleware Perspective '', CRC Press, 2012.
+3. Olivier Hersent, David Boswarthick and Omar Elloumi, ``The Internet of Things -- Key applications and Protocols'', Wiley, 2012.
+4. Arshdeep Bahga and Vijay Madisetti, ``Internet of Things -- A Hands-on Approach'', Universities Press, 2015.
+
+
+

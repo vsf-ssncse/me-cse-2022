@@ -1,0 +1,63 @@
+* <<<CP1211>>> DATA ANALYTICS LAB
+:properties:
+:author: S Rajalakshmi, R Priyadharsini
+:date: 28 June 2018
+:end:
+
+#+startup: showall
+   ** CO PO MAPPING 
+#+NAME: co-po-mapping
+|                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
+|                |    | K3 | K6  |  K6 |  K6 | K6  |     |     |     |     |      |      |     
+| CO1            | K2 |  3 |  2  |  2  |  2  |  2  |  1  |     |     |     |      |      |    
+| CO2            | K3 |  3 |  2  |  2  |  2  |  2  |  1  |     |     |     |      |      |  
+| CO3            | K3 |  3 |  2  |  2  |  2  |  2  |  1  |     |     |     |      |      |  
+| Total          |    |  9 |  6  |  6  |  6  |  6  |  3  |     |     |     |      |      |   
+| Course Mapping |    |  3 |  2  |  2  |  2  |  2  |  1  |     |     |     |      |      |
+
+{{{credits}}}
+|L|T|P|C|
+|0|0|4|2|
+
+** Course Objectives
+- To implement Map-Reduce programs for processing big data.
+- To realize storage of big data using Hbase, MongoDB.
+- To analyse big data using linear models.
+- To analyse big data using machine learning techniques for
+  classification and clustering.
+
+** Suggestive Experiments
+*** Hadoop 
+1. Applications using Map-Reduce programming (Examples: word count /
+   frequency programs / matrix multiplication)
+2. Implement an MR program that processes a dataset.
+
+*** R
+3. Linear and logistic Regression (Loan prediction using Credit
+   approval dataset, Sales prediction using Bigmart dataset)
+4. SVM / Decision tree classification techniques (Flower type
+   classification based on available attributes using Iris dataset,
+   Passengers survival classification using titanic dataset)
+5. Multilayer perceptron (Hand written digit classification using
+   neural network)
+6. Clustering (Document categorization by multiclass techniques)
+7. Visualize data using any plotting framework
+
+*** Database
+8. Application that stores data in Hbase / MongoDB (Sentiment analysis
+   using twitter dataset)
+
+\hfill *Total: 60*
+
+** Course Outcomes
+After the completion of this course, students will be able to: 
+- Process big data using Hadoop framework (K3).
+- Build and apply linear and logistic regression models (K3).
+- Examine data analysis with machine learning methods (K4).
+- Analyze data using visualization techniques (K4).
+
+** Course Outcomes (Batch 2021-2023)
+After the completion of this course, students will be able to: 
+- Process big data using Hadoop framework (K3).
+- Build and apply linear and logistic regression models (K3) 
+- Analyse data  using machine learning methods and visualization techniques (K4).

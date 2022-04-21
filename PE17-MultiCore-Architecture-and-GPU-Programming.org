@@ -1,0 +1,87 @@
+* <<<PCP1101>>> MULTI-CORE ARCHITECTURES AND GPU COMPUTING 
+:properties:
+:author: DVV Prasad, K Lekshmi
+:date: 27 June 2018
+:end:
+
+#+startup: showall
+
+   ** CO PO MAPPING 
+#+NAME: co-po-mapping
+|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
+|                |    |  K3 |  K6 |  K6 |  K6 |  K6 |     |     |     |     |      |      | 
+| CO1            | K2 |   2 |   1 |   1 |     |     |     |     |     |     |      |      |
+| CO2            | K2 |   2 |   1 |   1 |     |     |     |     |     |     |      |      |
+| CO3            | K2 |   2 |   1 |   1 |     |     |     |     |     |     |      |      |
+| CO4            | K3 |   3 |   2 |   2 |     |     |     |     |     |     |      |      |
+| CO5            | K3 |   3 |   2 |   2 |     |     |     |     |     |     |      |      |
+| Score          |    |  12 |   7 |   7 |     |     |     |     |     |     |      |      |
+| Course Mapping |    |   3 |   2 |   2 |     |     |     |     |     |     |      |      |
+
+{{{credits}}}
+|L|T|P|C|
+|3|0|0|3|
+
+** Course Objectives
+- To understand the basics of multi-core architectures.
+- Understand the basics of SIMD and MIMD systems
+- Learn about CUDA programming constructs, and solutions.
+ 
+
+{{{unit}}}
+|Unit I |MultiCore Processors|9| 
+Single core to multicore architectures; Homogeneous and heterogeneous
+Multi-core architectures: Intel multicore architectures -- SUN CMP
+architecture -- IBM cell architecture; Introduction to warehouse-scale
+computers architectures -- Physical infrastructure and costs.
+
+{{{unit}}}
+|Unit II|Multi Processor Architectures and Issues|9| 
+MIMD systems: Symmetric and distributed shared memory architectures;
+Cache coherence; Interconnection networks; Performance issues;
+Parallel program design.
+
+{{{unit}}}
+|Unit III|Vector, SIMD and GPU Architectures|9|
+SIMD Systems: Introduction -- Vector architecture -- SIMD extensions
+for multimedia -- Graphics Processing Units; Detecting and enhancing
+loop level parallelism; Case studies -- GPGPU computing
+
+{{{unit}}}
+|Unit IV|GPU Programming using CUDA|10|
+CUDA Hardware Overview: Threads -- Blocks -- Grids -- Warps --
+Scheduling; Memory handling with CUDA: Shared memory -- Global memory
+-- Constant memory and texture memory.
+
+{{{unit}}}
+|Unit V|Common Problems, Causes, and Solutions in CUDA |8|
+Common Problems: CUDA error handling -- Parallel programming issues --
+Synchronization -- Algorithmic issues -- Finding and avoiding Errors.
+
+\hfill *Total: 45*
+
+** Course Outcomes
+After the completion of this course, the students will be able to:
+- Infer the salient features of different multicore architectures and how they exploit parallelism. (K2)
+- Interpret the features and issues of MIMD systems. (K2)
+- Explain the features of SIMD systems. (K2)
+- Develop  programs using CUDA. (K3)
+- Apply and identify issues in CUDA programming. (K3)
+
+      
+** References
+1. John L. Hennessey and David A. Patterson, ``Architecture -- A
+   Quantitative Approach'', 5th edition, Morgan Kaufmann /
+   Elsevier, 2012. (units I, III)
+2. Peter S. Pacheco, ``An Introduction to Parallel Programming'',
+   Morgan Kaufmann, 2014. (unit II)
+3. Shane Cook, ``CUDA Programming: A Developer's Guide to Parallel
+   Computing with GPUs (Applications of GPU Computing)'', First
+   Edition, Morgan Kaufmann, 2012. (unit IV, V)
+4. Sanders J. Kandrot E. ``CUDA by example: An Introduction to
+   General-Purpose GPU Programming'', Addison-Wesley, 2011.
+5. Nicholas Wilt, ``CUDA Handbook: A Comprehensive Guide to GPU
+   Programming'', Addison - Wesley, 2013.
+   
+
+

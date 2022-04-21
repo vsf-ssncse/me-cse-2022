@@ -1,0 +1,48 @@
+* <<<CP1212>>> MINI-PROJECT
+:properties:
+:author: B Prabhavathy
+:date: 28 June 2018
+:end:
+
+#+startup: showall
+
+   ** CO PO MAPPING 
+#+NAME: co-po-mapping
+|                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
+|                |    | K3 | K6  |  K6 |  K6 | K6  |     |     |     |     |      |      |     
+| CO1            | K4 |  3 |  2  |  2  |  2  |  2  |  1  |  1  |     |     |      |      |    
+| CO2            | K4 |  3 |  2  |  2  |  2  |  2  |  1  |  1  |     |     |      |      |  
+| CO3            | K3 |  3 |  2  |  2  |  2  |  2  |  1  |  1  |     |     |      |      |    
+| Total          |    |  9 |  6  |  6  |  6  |  6  |  3  |  3  |     |     |      |      |   
+| Course Mapping |    |  3 |  2  |  2  |  2  |  2  |  1  |  1  |     |     |      |      |  
+
+{{{credits}}}
+|L|T|P|C|
+|0|0|2|1|
+
+** Course Objectives
+- To formulate a problem and a solution,
+- To solve a given problem using latest technologies.
+
+** Suggestive Mini-projects
+1. Create a college website using HTML5 and CSS3
+2. Develop a MVC based web application for a Super Market Billing
+   System. Use cookies as part of the web application
+3. Develop online exam web application using AngularJS
+4. Develop Library Management System using MVC Django Architecture
+5. Develop Inventory Management System using Django Framework
+
+\hfill *Total: 30*
+
+** Course Outcomes
+After the completion of this course, students will be able to: 
+- Formulate the problem and design a solution (K4),
+- Adapt to new technologies to solve the given problem (K4),
+- Solve problems using software engineering principles (K3).
+
+** Course Outcomes (Batch 2021-2023)
+After the completion of this course, students will be able to: 
+- Analyze the problem and design a solution (K4)
+- Analyse and adopt new technologies for solving a given problem (K4)
+- Solve problems using software engineering principles (K3).
+
