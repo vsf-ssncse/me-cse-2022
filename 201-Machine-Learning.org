@@ -68,25 +68,15 @@ Data visualization: LIME and SHAP Tools og Google -- Comparision and analysis.
 Four Libraries are introced from different corporatinions with two explainable AT tools 
 \end{comment}
 
-** Suggestive Experiments (Python - Numpy, Scipy, Scikit-learn, Matplotlib)
-1. Perceptron and Linear Regression
-2. Multi-layer Perceptron
-3. Support Vector Machine
-4. Decision Tree algorithm
-5. k-Nearest Neighbor algorithm
-6. K-means clustering
-7. Random Forest and AdaBoost ensemble techniques
-8. Dimensionality reduction techniques : LDA, PCA
-
-\hfill *Total: 75*
+\hfill *Total: 45*
 
 ** Course Outcomes
 On successful completion of this course, the student will be able to
--Explain the basic concepts of machine learning (K2)
--Analyze linear and non-linear techniques for classification problems (K4)
--Apply Unsupervisd and reimforcement algorithms for the given problems (K3)
--Analyse the importance of neural networks in machine and deep learning (K4)
--apply different ML tools based on the given requirement and application (K3)
+- Explain the basic concepts of machine learning (K2)
+- Analyze linear and non-linear techniques for classification problems (K4)
+- Apply Unsupervisd and reimforcement algorithms for the given problems (K3)
+- Analyse the importance of neural networks in machine and deep learning (K4)
+- Apply different ML tools based on the given requirement and application (K3)
       
 ** References
 1. Stephen Marsland, ``Machine Learning – An Algorithmic
@@ -102,6 +92,7 @@ On successful completion of this course, the student will be able to
 5. Peter Flach, ``Machine Learning: The Art and Science of Algorithms
    that Make Sense of Data'', First Edition, Cambridge University
    Press, 2012.
+   
 ** CO PO MAPPING 
 #+NAME: co-po-mapping
 |                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
