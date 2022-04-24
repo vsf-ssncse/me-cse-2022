@@ -1,81 +1,19 @@
-* <<<PCP1178>>> MACHINE LEARNING 
+* <<<PCP1178>>> MACHINE LEARNING LAB
 :properties:
-:author: S Rajalakshmi, B Senthil Kumar
-:date: 5 July 2018
+:author: S Kavitha
+:date: 24 April 2022
 :end:
 
 #+startup: showall
 
 {{{credits}}}
 | L | T | P | C |
-| 3 | 0 | 2 | 4 |
+| 0 | 0 | 4 | 1.5 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
-- To understand the working of various machine learning algorithms.
-- To use the various probability based learning techniques and
-  evolutionary models.
-- To understand graphical models.
-
-{{{unit}}}
-|Unit I |Introduction|8|
-Learning: Types of machine learning -- Design of a learning system --
-Perspectives and issues in machine learning; Concept Learning Task:
-Concept learning as search -- Finding a maximally specific hypothesis
--- Version spaces and Candidate elimination algorithm; Curse of
-dimensionality -- Overfitting -- Bias-variance tradeoff.
-
-\begin{comment}
-(Linear Discriminants – Perceptron – Linear Separability – Linear Regression) are moved to second unit. (Curse of Dimensionality -- Overfitting -- Bias-variance tradeoff) are added.
-\end{comment}
-
-{{{unit}}}
-|Unit II|Linear and Non-Linear Models|10| 
-The Brain and the Neuron -- Perceptron -- Linear separability --
-Linear regression; Multi-Layer Perceptron: Going forwards -- Going
-backwards -- Back propagation error -- Multi-layer perceptron in
-Practice -- Examples of using the MLP -- Deriving back-propagation;
-Radial Basis Functions and Splines: Concepts -- RBF Network; Support
-Vector Machines: Kernels.
-
-\begin{comment}
-(Curse of Dimensionality) is moved to first unit. (Interpolations and Basis Functions) are removed. (Kernel methods) is added.
-\end{comment}
-
-{{{unit}}}
-|Unit III|Tree and Probabilistic Models |9| 
-Learning with Trees: Decision trees -- Constructing decision trees --
-Classification and regression trees; Ensemble Learning: Boosting --
-Bagging -- Different ways to Combine Classifiers; Probabilistic
-Learning: Gaussian Mixture Models -- Nearest neighbor methods;
-Unsupervised Learning: K-means algorithms.
-
-\begin{comment}
-(Vector quantization) is removed. (Data into Probabilities – Basic Statistics) are removed.
-\end{comment}
-
-{{{unit}}}
-|Unit IV|Dimensionality Reduction and Evolutionary Models |9| 
-Dimensionality Reduction: Linear discriminant analysis -- Principal
-component analysis -- Independent component analysis; Evolutionary
-Learning: Genetic algorithms -- Genetic offspring -- Genetic operators
--- Using Genetic algorithms; Reinforcement Learning: `Getting lost'
-example -- Markov decision process.
-
-\begin{comment}
-(Factor Analysis – Locally Linear Embedding – Isomap – Least Squares Optimization) are removed.
-\end{comment}
-
-{{{unit}}}
-|Unit V|Graphical Models |9|
-Markov Chain Monte Carlo Methods: Sampling -- Proposal distribution --
-Markov Chain Monte Carlo; Graphical Models: Bayesian networks --
-Markov Random Fields -- Hidden markov models
-
-\begin{comment}
-(Markov Random Fields – Tracking Methods) are removed.
-\end{comment}
+- To understand and implement the machine learning algorithms
+- To select the suitable algorithms for the given problem and its analysis
+- To learn the current need of Industry in ML perspective
 
 ** Suggestive Experiments (Python - Numpy, Scipy, Scikit-learn, Matplotlib)
 1. Perceptron and Linear Regression
@@ -86,31 +24,25 @@ Markov Random Fields -- Hidden markov models
 6. K-means clustering
 7. Random Forest and AdaBoost ensemble techniques
 8. Dimensionality reduction techniques : LDA, PCA
+9. Mini project
 
-\hfill *Total: 75*
+\hfill *Total: 30*
+
+** Hardware/Software requirements
+1. Python 3.x
+2. JupyterLab
+3. Scientific Computing Libraries: Numpy, Scipy, MatplotLib, Pandas
+4. Machine Learning Libraries: Scikit-Learning 
+5. Deep Learning Libraries: Pytorch 1.0, Tensorflow 2.0 
+6. Cloud for application deployment and testing: Google Colab, autoML, Azure, H2O.AI, AWS
+7. Intel Core i7 CPU, with minimum 16GB RAM
 
 ** Course Outcomes
 On successful completion of this course, the student will be able to
--Explain the basic concepts of machine learning (K2)
--Analyze linear and non-linear techniques for classification problems (K4)
--Apply tree and probabilistic models for the given problems (K3)
--Apply various dimensionality reduction techniques and evolutionary models (K3)
--Explain the concepts of graphical models (K2)
-      
-** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic
-   Perspective'', Second Edition, Chapman and Hall/CRC Machine
-   Learning and Pattern Recognition Series, 2014.
-2. Tom M Mitchell, ``Machine Learning, First Edition'', McGraw Hill
-   Education, 2013.
-3. Ethem Alpaydin, ``Introduction to Machine Learning 3e (Adaptive
-   Computation and Machine Learning Series)'', Third Edition, MIT
-   Press, 2014
-4. Jason Bell, ``Machine learning – Hands on for Developers and
-   Technical Professionals'', First Edition, Wiley, 2014
-5. Peter Flach, ``Machine Learning: The Art and Science of Algorithms
-   that Make Sense of Data'', First Edition, Cambridge University
-   Press, 2012.
+- Analyse and learn the algoritms in implementation aspect (K4)
+- Design and solve the given problem or appliaction using suitable ML algorithms (K5)
+- Analyse and learn the latest libraries developed by different corporations (K4)
+
 ** CO PO MAPPING 
 #+NAME: co-po-mapping
 |                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
