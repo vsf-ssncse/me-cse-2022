@@ -1,59 +1,53 @@
 * <<<PCP1178>>> MACHINE LEARNING 
 :properties:
-:author: S Rajalakshmi, B Senthil Kumar
-:date: 5 July 2018
+:author: S Kavitha
+:date: 24 April 2022
 :end:
 
 #+startup: showall
 
 {{{credits}}}
 | L | T | P | C |
-| 3 | 0 | 2 | 4 |
+| 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To have a basic knowledge of the concepts and techniques of machine
-  learning.
-- To understand the working of various machine learning algorithms.
-- To use the various probability based learning techniques and
-  evolutionary models.
-- To understand graphical models.
+- To have a basic knowledge of the concepts and techniques of machine learning.
+- To learn the working of various machine learning algorithms on different learning types.
+- To understand the importance of deep learning in the perspective of machine learning.
+- To have basic konowledge on different libraries of machine learning.
 
 {{{unit}}}
-|Unit I |Introduction|8|
-Learning: Types of machine learning -- Design of a learning system --
-Perspectives and issues in machine learning; Concept Learning Task:
-Concept learning as search -- Finding a maximally specific hypothesis
--- Version spaces and Candidate elimination algorithm; Curse of
-dimensionality -- Overfitting -- Bias-variance tradeoff.
+|Unit I |Introduction and Mathematical Foundation |8|
+Machine Learning: Definitions -- History -- Applications -- Advantages, Disadvantages & Challenges; 
+Types of machine learning -- Design of a learning system -- Perspectives and issues in machine learning; 
+Basic statitics: Averages -- Variance and Covariance -- Bias Variance tradeoff -- Curse of dimensionality; 
+Data into Probabilities: Naive Bayes Classifier; Testing ML algorithms.
 
 \begin{comment}
-(Linear Discriminants – Perceptron – Linear Separability – Linear Regression) are moved to second unit. (Curse of Dimensionality -- Overfitting -- Bias-variance tradeoff) are added.
+Introduction topics and chapters 1 & 2
 \end{comment}
 
 {{{unit}}}
-|Unit II|Linear and Non-Linear Models|10| 
-The Brain and the Neuron -- Perceptron -- Linear separability --
-Linear regression; Multi-Layer Perceptron: Going forwards -- Going
-backwards -- Back propagation error -- Multi-layer perceptron in
-Practice -- Examples of using the MLP -- Deriving back-propagation;
-Radial Basis Functions and Splines: Concepts -- RBF Network; Support
-Vector Machines: Kernels.
+|Unit II|Linear and Non-Linear Models OR Supervised Learning |10| 
+Regression: Introduction -- Linear Regression -- Least Squares -- Under fitting and Overfitting -- Cross-Validation – Lasso Regression -- Logistic Regression;
+Classification: Linear and Non-linear models -- Support Vector Machines –- Kernel Methods; K-Nearest Neighbours;
+Learning with Trees: constructing Decision Tree using ID3 – Classification and regression trees(CART);
+Ensemble Methods -– Bagging -- Boosting -- Random Forest; Evaluation of Classification Algorithms.
 
 \begin{comment}
-(Curse of Dimensionality) is moved to first unit. (Interpolations and Basis Functions) are removed. (Kernel methods) is added.
+Algorithms related to SL are in Unit2, Chapters 3, 8, 12 and 13
 \end{comment}
 
 {{{unit}}}
-|Unit III|Tree and Probabilistic Models |9| 
-Learning with Trees: Decision trees -- Constructing decision trees --
-Classification and regression trees; Ensemble Learning: Boosting --
-Bagging -- Different ways to Combine Classifiers; Probabilistic
-Learning: Gaussian Mixture Models -- Nearest neighbor methods;
-Unsupervised Learning: K-means algorithms.
+|Unit III| Unsupervised learning and Reinforcement Learning |9| 
+Unsupervised Learning: Clustering Algorithms -- K–Means -– Hierarchical Clustering -- Cluster Validity;
+Dimensionality Reduction: Linear discriminant analysis -- Principal component analysis -- Independent component analysis; 
+Reinforcement Learning: Terminoligies -- Markov decision process -- Sarsa and Q-learning Algorithms.
 
 \begin{comment}
-(Vector quantization) is removed. (Data into Probabilities – Basic Statistics) are removed.
+Algorithms related to USL are in Unit3, Chapters 6 and 11
 \end{comment}
+.
 
 {{{unit}}}
 |Unit IV|Dimensionality Reduction and Evolutionary Models |9| 
@@ -72,6 +66,13 @@ example -- Markov decision process.
 Markov Chain Monte Carlo Methods: Sampling -- Proposal distribution --
 Markov Chain Monte Carlo; Graphical Models: Bayesian networks --
 Markov Random Fields -- Hidden markov models
+
+The Brain and the Neuron -- Perceptron -- Linear separability --
+Linear regression; Multi-Layer Perceptron: Going forwards -- Going
+backwards -- Back propagation error -- Multi-layer perceptron in
+Practice -- Examples of using the MLP -- Deriving back-propagation;
+Radial Basis Functions and Splines: Concepts -- RBF Network; Support
+Vector Machines: Kernels.
 
 \begin{comment}
 (Markov Random Fields – Tracking Methods) are removed.
