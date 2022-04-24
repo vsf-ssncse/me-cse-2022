@@ -50,32 +50,22 @@ Algorithms related to USL are in Unit3, Chapters 6 and 11
 .
 
 {{{unit}}}
-|Unit IV|Dimensionality Reduction and Evolutionary Models |9| 
-Dimensionality Reduction: Linear discriminant analysis -- Principal
-component analysis -- Independent component analysis; Evolutionary
-Learning: Genetic algorithms -- Genetic offspring -- Genetic operators
--- Using Genetic algorithms; Reinforcement Learning: `Getting lost'
-example -- Markov decision process.
+|Unit IV| Neural Networks and Deep Learning |9| 
+Neural Networks: The Brain and the Neuron -- Perceptron;
+Multi-Layer Perceptron: Going forwards -- Going backwards -- Back propagation error -- Multi-layer perceptron in Practice -- Examples of using the MLP;
+Deep Learning: Introduction -– Convolution Neural Networks -– Recurrent Neural Networks -– Use cases.
 
 \begin{comment}
-(Factor Analysis – Locally Linear Embedding – Isomap – Least Squares Optimization) are removed.
+DL is introduced as an extension of ML 
 \end{comment}
 
 {{{unit}}}
-|Unit V|Graphical Models |9|
-Markov Chain Monte Carlo Methods: Sampling -- Proposal distribution --
-Markov Chain Monte Carlo; Graphical Models: Bayesian networks --
-Markov Random Fields -- Hidden markov models
-
-The Brain and the Neuron -- Perceptron -- Linear separability --
-Linear regression; Multi-Layer Perceptron: Going forwards -- Going
-backwards -- Back propagation error -- Multi-layer perceptron in
-Practice -- Examples of using the MLP -- Deriving back-propagation;
-Radial Basis Functions and Splines: Concepts -- RBF Network; Support
-Vector Machines: Kernels.
+|Unit V| ML Tools or Libraries for Applications |9|
+ML Libraries and Data Visulaization: Introduction -- AutoML with Google Cloud -- Microsoft Azure -- Amazon sage maker  or AWS -- classification, regression;
+Data visualization: LIME and SHAP Tools og Google -- Comparision and analysis. 
 
 \begin{comment}
-(Markov Random Fields – Tracking Methods) are removed.
+Four Libraries are introced from different corporatinions with two explainable AT tools 
 \end{comment}
 
 ** Suggestive Experiments (Python - Numpy, Scipy, Scikit-learn, Matplotlib)
@@ -94,19 +84,19 @@ Vector Machines: Kernels.
 On successful completion of this course, the student will be able to
 -Explain the basic concepts of machine learning (K2)
 -Analyze linear and non-linear techniques for classification problems (K4)
--Apply tree and probabilistic models for the given problems (K3)
--Apply various dimensionality reduction techniques and evolutionary models (K3)
--Explain the concepts of graphical models (K2)
+-Apply Unsupervisd and reimforcement algorithms for the given problems (K3)
+-Analyse the importance of neural networks in machine and deep learning (K4)
+-apply different ML tools based on the given requirement and application (K3)
       
 ** References
 1. Stephen Marsland, ``Machine Learning – An Algorithmic
    Perspective'', Second Edition, Chapman and Hall/CRC Machine
-   Learning and Pattern Recognition Series, 2014.
-2. Tom M Mitchell, ``Machine Learning, First Edition'', McGraw Hill
+   Learning and Pattern Recognition Series, 2015.
+2. Tom M Mitchell, ``Machine Learning'', First Edition, McGraw Hill
    Education, 2013.
-3. Ethem Alpaydin, ``Introduction to Machine Learning 3e (Adaptive
-   Computation and Machine Learning Series)'', Third Edition, MIT
-   Press, 2014
+3. Ethem Alpaydin, ``Introduction to Machine Learning (Adaptive
+   Computation and Machine Learning Series)'', Fourth Edition, MIT
+   Press, 2020
 4. Jason Bell, ``Machine learning – Hands on for Developers and
    Technical Professionals'', First Edition, Wiley, 2014
 5. Peter Flach, ``Machine Learning: The Art and Science of Algorithms
