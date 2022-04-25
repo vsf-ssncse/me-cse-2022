@@ -1,6 +1,6 @@
 * 
 :properties:
-:author: S Kavitha, B Bharathi, R. Kanchana, R.S. Milton
+:author: R. Kanchana, R.S. Milton
 :date: 29 June 2018
 :end:
 
@@ -68,9 +68,10 @@ NP-Completeness -- 3-Coloring -- Bipartite Matching.
 After the completion of this course, students will be able to: 
 1. Apply asymptotic notations and methods to find the time complexity of linear and recursive algorithms. (K3)
 2. Develop optimal algorithms using tree data structures (K3)
-3. Develop optimal algorithms using graph data structures. (K3) 
-4. Solve problems using suitable design techniques (K4) 
-5. Identify NP type problems. (K2) 
+3. Develop optimal algorithms using graph data structures. (K3)
+4. Solve problems using suitable design techniques (K4)
+5. Explain NP type problems and their reductions (K2)
+
 
       
 ** REFERENCES
