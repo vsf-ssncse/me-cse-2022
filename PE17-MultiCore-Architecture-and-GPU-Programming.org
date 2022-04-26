@@ -9,10 +9,6 @@
 | CODE | COURSE TITLE                               | L | T | P | C |
 |      | MULTI-CORE ARCHITECTURES AND GPU COMPUTING | 3 | 0 | 0 | 3 |
 
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
-
 ** COURSE OBJECTIVES
 - To understand the basics of multi-core architectures.
 - Understand the basics of SIMD and MIMD systems

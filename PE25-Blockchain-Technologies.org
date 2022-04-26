@@ -1,55 +1,64 @@
-* <<<CP1236>>> BLOCKCHAIN TECHNOLOGIES
+* 
 :properties:
 :author: J. SURESH
 :date: 26 April 2022
 :end:
 
 #+startup: showall
+{{{title-tab}}}
+| CODE | COURSE TITLE            | L | T | P | C |
+|      | BLOCKCHAIN TECHNOLOGIES | 3 | 0 | 0 | 3 |
 
-{{{credits}}}
-|L|T|P|C|
-|3 |0|0|3 |
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To understand blockchain technology and distributed systems
--	To learn how decentralization of trust is achieved
--	To study the technologies behind cryptocurrencies
--	To impart knowledge of distributed ledgers in business
--	To acquire knowledge in emerging concepts using blockchain
+- To learn how decentralization of trust is achieved
+- To study the technologies behind cryptocurrencies
+- To impart knowledge of distributed ledgers in business
+- To acquire knowledge in emerging concepts using blockchain
 
 {{{unit}}}
-|Unit I|Introduction to Blockchain|9|
-
-Defining the Terms - Building blocks of Blockchain frameworks - Where is and where it’s going - Blockchain in Enterprise - Technology Considerations - Identity - Scalability - Security - Consensus - CAP - ACID Property - Benefits and Limitation of Blockchain
-
-{{{unit}}}
-|Unit II|Decentralization|9|
-Methods of Decentralization – Routes to Decentralization – Smart Contract – Decentralized Organization – Platforms for Decentralization – Consensus Algorithms.
+| UNIT I | INTRODUCTION TO BLOCKCHAIN | 9 |
+Defining the Terms - Building blocks of Blockchain frameworks - Where
+is and where it’s going - Blockchain in Enterprise - Technology
+Considerations - Identity - Scalability - Security - Consensus - CAP -
+ACID Property - Benefits and Limitation of Blockchain
 
 {{{unit}}}
-|Unit III|Crytocurrencies|9|
-Digital Money - Cryptography; Cryptocurrencies - Bitcoin - Ethereum; Digital Token; Alternative Coins
+|UNIT II|DECENTRALIZATION|9|
+Methods of Decentralization – Routes to Decentralization – Smart
+Contract – Decentralized Organization – Platforms for Decentralization
+– Consensus Algorithms.
 
 {{{unit}}}
-|Unit IV|Distributed Ledgers for Business|9|
-Ethereum: Introduction – Ethereum Network – Components – Programming Languages; Hyperledger: Introduction – Reference Architecture – Fabric – Sawtooth Lake – Corda.
+|UNIT III|CRYTOCURRENCIES|9|
+Digital Money - Cryptography; Cryptocurrencies - Bitcoin - Ethereum;
+Digital Token; Alternative Coins
 
 {{{unit}}}
-|Unit V|Blockchain Development Tools and Frameworks|9|
-Compilers: Solidity – Ganache – Metamask – Truffle; Languages: Solidity – Go – Java – NodeJS; Blockchain Use Case: Financials – Insurance - Supply Chain Management – HealthCare – IoT.
+|UNIT IV|DISTRIBUTED LEDGERS FOR BUSINESS|9|
+Ethereum: Introduction – Ethereum Network – Components – Programming
+Languages; Hyperledger: Introduction – Reference Architecture – Fabric
+– Sawtooth Lake – Corda.
 
-\hfill *Total: 45*
+{{{unit}}}
+| UNIT V | BLOCKCHAIN DEVELOPMENT TOOLS AND FRAMEWORKS | 9 |
+Compilers: Solidity – Ganache – Metamask – Truffle; Languages:
+Solidity – Go – Java – NodeJS; Blockchain Use Case: Financials –
+Insurance - Supply Chain Management – HealthCare – IoT.
 
-** Course Outcomes
+\hfill *Total Periods: 45*
+
+** COURSE OUTCOMES
 After the completion of this course, students will be able to:
 - Explain the  importance of distributed ledgers and need of blockchain (K2)
--	Describe decentralisation concepts and apply consensus algorithms (K3)
--	Explain the basics of cryptography and its applications in cryptocurrencies (K2)
--	Apply various distributed ledgers for business (K4)
--	Make use of appropriate techniques for designing trust-based business networks (K4)
+- Describe decentralisation concepts and apply consensus algorithms (K3)
+- Explain the basics of cryptography and its applications in cryptocurrencies (K2)
+- Apply various distributed ledgers for business (K4)
+- Make use of appropriate techniques for designing trust-based business networks (K4)
 
 
-** References
+** REFERENCES
 1. Van Haren Publishing (Editor), “Introduction to Blockchain Technology: The Many Faces of Blockchain Technology in the 21st Century”, Paperback Import, 2019.
 2. Istvan Miklos, Renyi Institutue, ``Introduction to algorithms in
    bioinformatics'', Springer 2016
@@ -60,3 +69,15 @@ After the completion of this course, students will be able to:
 7. William Mougayar, “Business Blockchain Promise, Practice and Application of the Next Internet Technology”, John Wiley & Sons 2016.
 8. Tiana Laurence, “Blockchain for Dummies” John Wiley & Sons, 2017.
 9. Antony Lewis, "The basics of Bitcoins and Blockchains", Mango Publishing, Coral Gabels
+
+** CO TO PO MAPPING
+| PO/PSO | 1 | 2 | 3 | 4 |
+|--------+---+---+---+---|
+| CO1    |   |   |   |   |
+| CO2    |   |   |   |   |
+| CO3    |   |   |   |   |
+| CO4    |   |   |   |   |
+| CO5    |   |   |   |   |
+|--------+---+---+---+---|
+| Course |   |   |   |   |
+   

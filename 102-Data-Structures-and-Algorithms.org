@@ -9,10 +9,6 @@
 | CODE | COURSE TITLE                            | L | T | P | C |
 |      | ADVANCED DATA STRUCTURES AND ALGORITHMS | 3 | 0 | 0 | 3 |
 
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
-
 ** R2021 Changes :noexport:
   1. This topic was added
   2. That topic is not important
