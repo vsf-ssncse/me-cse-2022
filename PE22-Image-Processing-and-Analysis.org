@@ -29,30 +29,27 @@ Operations: Arithmetic; Logical; Statistical and Spatial operations
 Spatial Domain processing: Filtering operations; Histograms; Smoothing
 filters; Sharpening filters; Fuzzy techniques; Noise models; Filters
 for noise removal Frequency Domain processing: Fourier Transform --
-DFT and FFT; Filtering operations; Smoothing and Sharpening --
+DFT and FFT; Filtering operations; Smoothing and Sharpening -- 
 Selective filters; Filters for noise removal; Homomorphic filtering
 Restoration: Model of Image Degradation/Restoration Process, Noise
 Models
 
 {{{unit}}}
-|Unit III| Image Segmentation and Feature Analysis |10| 
+|Unit III| Image Segmentation |10| 
 Thresholding techniques: Region growing; splitting and merging;
 Adaptive -- Otsu method Edge detection: Template matching; Gradient
 operation; Hysterisis Thresholding -- Canny operator -- Laplacian
 operator; Image morphology -- Binary and Gray Level morphology
 operations -- erosion; dilation -- opening-- closing operations --
-Morphological watersheds; Features -- Corner and interest point
-detection -- boundary representation and detections -- texture
-descriptors -- regional descriptors and feature selection techniques
+Morphological watersheds 
 
 {{{unit}}}
-|Unit IV| Multi Resolution Analysis, Color Images and Image Compressions  |9| 
+|Unit IV| Feature Analysis and Multi Resolution Analysis  |9| 
+Features -- Corner and interest point
+detection -- boundary representation and detections -- texture
+descriptors -- regional descriptors and feature selection techniques;
 Multi Resolution Analysis: Image Pyramids -- Multi resolution
-expansion -- Wavelet Transforms; Fast Wavelet transforms; Wavelet
-Packets Image Compression: Fundamentals -- Models -- Error Free
-Compression --Lossy Compression -- Compression Standards --
-Watermarking Color Images: Color Models; Smoothing and Sharpening --
-Segmentation based on Color -- Noise in Color Images
+expansion -- Wavelet Transforms; Fast Wavelet transforms.
 
 {{{unit}}}
 |Unit V| Case Studies in Image Processing|8|
@@ -68,7 +65,7 @@ Multimedia
 After the completion of this course, students will be able to: 
 - Design and implement enhancement and segmentation algorithms for image processing application. (K4)
 - Perform analysis using various image features. (K3)
-- Analyze the multi resolution techniques and methods used for color images. (K3)
+- Analyze the multi resolution techniques and methods used for images. (K3)
 - Make a positive professional contribution in the field of Digital Image Processing. (K4)
       
 ** References
