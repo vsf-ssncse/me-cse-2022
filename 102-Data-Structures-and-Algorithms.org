@@ -26,22 +26,20 @@
 
 {{{unit}}}
 | UNIT I | ROLE OF ALGORITHMS IN COMPUTING | 9 |
-Algorithms -- Analyzing algorithms -- Designing algorithms -- Growth
+Algorithms -- Analyzing algorithms -- Growth
 of functions: Asymptotic notation -- Standard notations and common
-functions; Recurrences: The substitution method -- The recursion-tree
-method -- The master method for solving recurrences.
+functions; Recurrences -- Methods for solving recurrences.
 
 {{{unit}}}
 | UNIT II | HIERARCHICAL DATA STRUCTURES | 9 |
 Binary search trees: Basics -- Query, Insertion and Deletion;
 Red-black trees: Properties of Red-black trees -- Rotations --
-Insertion -- Deletion; B-Trees: Basic operations on B-Trees; Fibonacci
-heaps: Structure -- Mergeable-heap operations -- Decreasing a key and
-deleting a node; Disjoint-set operations -- Disjoint-set forests.
+Insertion -- Deletion; B-Trees: Basic operations on B-Trees; Binomial
+heaps: Structure -- Mergeable-heap operations; Disjoint-set operations -- Disjoint-set forests.
 
 {{{unit}}}
 | UNIT III | GRAPHS | 9  |
-Elementary graph algorithms: Representations of graphs --
+Representations of graphs --
 Breadth-first search -- Depth-first search -- Topological sort --
 Strongly connected components; Single-source shortest paths:
 Bellman-Ford algorithm; Single-source shortest paths in directed
@@ -51,17 +49,13 @@ Floyd-Warshall algorithm
 {{{unit}}}
 | UNIT IV | ALGORITHM DESIGN TECHNIQUES | 10 |
 Greedy Algorithms: The job/event scheduling problem --
-Minimum-spanning-tree problem; Recursive backtracking: Developing
-recursive backtracking algorithm -- Pruning branches -- N-queens
-problem; Developing dynamic programming algorithms -- Subtle points --
-Decreasing time and space -- Longest common subsequence problem,
-Weighted job/Event Scheduling Problem
+Minimum-spanning-tree -- Prim's and Kruskal's algorithms; Recursive backtracking: N-queens
+problem -- Map Colouring problem; Dynamic programming  --   Longest common subsequence problem -- Knapsack problem
 
 {{{unit}}}
 | UNIT V | NP COMPLETE AND NP HARD | 8 |
 Reductions and NP -- Completeness -- Satisfiability -- Proving
-NP-Completeness -- 3-Coloring -- Bipartite Matching.
-
+NP-Completeness -- Circuit SAT, CNFSAT, 3SAT problems.
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
