@@ -1,7 +1,7 @@
 * <<<PCP1197>>> ADVANCED DATA STRUCTURES AND ALGORITHMS LAB
 :properties:
-:author: S Kavitha, B Bharathi, R. Kanchana, R.S. Milton
-:date: 28 June 2018
+:author: R. Kanchana, R.S. Milton
+:date: 26 Aprl 2022
 :end:
 
 #+startup: showall
@@ -32,8 +32,7 @@
 9. Dynamic programming (e.g. Longest common subsequence, 0/1 Knapsack)
 10. Recursive backtracking (e.g. N-Queen’s problem)
 11. Greedy technique (e.g. Job/event scheduling, Minimum spanning tree)
-12. Mini project: For a given application, identify and solve using
-    suitable data structures and design techniques
+
  
 \hfill *Total: 60*
 
