@@ -65,7 +65,7 @@ Multimedia
 After the completion of this course, students will be able to: 
 - Design and implement enhancement and segmentation algorithms for image processing application. (K4)
 - Perform analysis using various image features. (K3)
-- Analyze the multi resolution techniques and methods used for color images. (K3)
+- Analyze the multi resolution techniques and methods used for images. (K3)
 - Make a positive professional contribution in the field of Digital Image Processing. (K4)
       
 ** References
