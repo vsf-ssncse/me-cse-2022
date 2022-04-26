@@ -1,65 +1,83 @@
-* <<<CP>>> BIG DATA MINING AND ANALYTICS (HEALTHCARE)
+*
 :properties:
 :author: J. SURESH & S LAKSHMI PRIYA
 :date: 26 April 2022
 :end:
 
 #+startup: showall
+{{{title-tab}}}
+| CODE | COURSE TITLE              | L | T | P | C |
+|      | HEALTHCARE DATA ANALYTCIS | 2 | 0 | 2 | 3 |
 
-{{{credits}}}
-|L|T|P|C|
-|3 |0|0|3 |
-
-** Course Objectives
+** COURSE OBJECTIVES
 - Discuss the role of basic and advanced data analytics in healthcare systems
--	Identify the Data Sources for Healthcare and describe the methods and techniques used for data analytics in EHR
--	Describe the methods and ways for processing big medical data 
--	Evolve how Machine learning and AI can be used for healthcare
--	Identify the challenges and future of big data in healthcare
-
-
-{{{unit}}}
-|Unit I|Introduction to Healthcare Data Analytics|6|
-Introduction - Healthcare Data Sources and Basic Analytics - Advanced Data Analytics for Healthcare - Applications
+- Identify the Data Sources for Healthcare and describe the methods and techniques used for data analytics in EHR
+- Describe the methods and ways for processing big medical data 
+- Evolve how Machine learning and AI can be used for healthcare
+- Identify the challenges and future of big data in healthcare
 
 {{{unit}}}
-|Unit II|Healthcare Data Sources |6|
-Introduction - Electronic Health Records (EHR) - Components of EHR - Benefits of EHR - Challenges of using EHR Data - Clinical Applications: EHR and Decision Support
+| UNIT I | INTRODUCTION TO HEALTHCARE DATA ANALYTICS | 6 |
+Introduction - Healthcare Data Sources and Basic Analytics - Advanced
+Data Analytics for Healthcare - Applications
 
 {{{unit}}}
-|Unit III|Big Medical Data |6|
-Digital Money - Cryptography; Cryptocurrencies - Bitcoin - Ethereum; Digital Token; Alternative Coins
+| UNIT II | HEALTHCARE DATA SOURCES | 6 |
+Introduction - Electronic Health Records (EHR) - Components of EHR -
+Benefits of EHR - Challenges of using EHR Data - Clinical
+Applications: EHR and Decision Support
 
 {{{unit}}}
-|Unit IV|Machine Learning and AI for Healthcare|6|
-AI in Healthcare - Diagnosing - Predicting - Mining the EHR; Use Cases: Breast Cancer Detection - Autism Screening with Machine Learning
+| UNIT III | BIG MEDICAL DATA | 6 |
+Digital Money - Cryptography; Cryptocurrencies - Bitcoin - Ethereum;
+Digital Token; Alternative Coins
 
 {{{unit}}}
-|Unit V|Future of Big Data in Healthcare|6|
-Management of Big Biomedical Data - Future direction of Healthcare and Big Data Analytics - Use Cases: Predicting of diabetes using binary class classification
+| UNIT IV | MACHINE LEARNING AND AI FOR HEALTHCARE | 6 |
+AI in Healthcare - Diagnosing - Predicting - Mining the EHR; Use
+Cases: Breast Cancer Detection - Autism Screening with Machine
+Learning
 
-\hfill *Total: 30*
+{{{unit}}}
+| UNIT V | FUTURE OF BIG DATA IN HEALTHCARE | 6 |
+Management of Big Biomedical Data - Future direction of Healthcare and
+Big Data Analytics - Use Cases: Predicting of diabetes using binary
+class classification
+
+\hfill *Total Periods: 30*
 
 Suggestive Experiments (Python)
-1.	Text Classification on Medical-Data (EHR)
-2.	Healthcare Recommendation Evaluator (Decision Support)
-3.	Breast Cancer Detection
-4.	Autism Screening with Machine Learning
-5.	Predicting of diabetes using binary class classification
+1. Text Classification on Medical-Data (EHR)
+2. Healthcare Recommendation Evaluator (Decision Support)
+3. Breast Cancer Detection
+4. Autism Screening with Machine Learning
+5. Predicting of diabetes using binary class classification
 
-\hfill *Total: 15*
+\hfill *Total Periods: 15*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to:
 - Explain the basic and advanced data analytics in public health (K2)
--	Utilize the available data sources for healthcare and develop a decision support system (K3)
--	Explain the methods and ways for processing big medical data (K2)
--	Develop a model for diagnosing and predicting of healthcare issues using machine learning and AI (K3)
--	Analyze the big data in healthcare using machine learning techniques (K4) 
+- Utilize the available data sources for healthcare and develop a decision support system (K3)
+- Explain the methods and ways for processing big medical data (K2)
+- Develop a model for diagnosing and predicting of healthcare issues using machine learning and AI (K3)
+- Analyze the big data in healthcare using machine learning techniques (K4) 
 
-** References
+** REFERENCES
 1. Chandan K. Reddy and Charu C. Aggarwal, “Healthcare Data Analytics”, CRC Press, Taylor & Francis Group, LLC., 2020
 2. Panta Keikhosrokiani, "Big Data Anlytics for Healthcare", Academic Press, 1st Edition, 2022.
 3. Arjun Panesar, "Machine Learning and AI for Healthcare", APress publications, 2nd Edition, 2020.
 4. Eduonix Learning Solutions, "Machine Learning for Healthcare Analytics Projects", PACKT Publishers, 1st Edition, 2018.
 5. Vikas, "Healthcare Analytics Made Simple: Techniques in Healthcare Computing using Machine Learning", PACKT publishers, 2018.
+
+** CO TO PO MAPPING
+| PO/PSO | 1 | 2 | 3 | 4 |
+|--------+---+---+---+---|
+| CO1    |   |   |   |   |
+| CO2    |   |   |   |   |
+| CO3    |   |   |   |   |
+| CO4    |   |   |   |   |
+| CO5    |   |   |   |   |
+|--------+---+---+---+---|
+| Course |   |   |   |   |
+   
