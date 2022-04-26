@@ -41,7 +41,7 @@ Adaptive -- Otsu method Edge detection: Template matching; Gradient
 operation; Hysterisis Thresholding -- Canny operator -- Laplacian
 operator; Image morphology -- Binary and Gray Level morphology
 operations -- erosion; dilation -- opening-- closing operations --
-Morphological watersheds; 
+Morphological watersheds 
 
 {{{unit}}}
 |Unit IV| Feature Analysis and Multi Resolution Analysis  |9| 
