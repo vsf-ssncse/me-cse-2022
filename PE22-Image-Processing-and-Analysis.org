@@ -29,7 +29,7 @@ Operations: Arithmetic; Logical; Statistical and Spatial operations
 Spatial Domain processing: Filtering operations; Histograms; Smoothing
 filters; Sharpening filters; Fuzzy techniques; Noise models; Filters
 for noise removal Frequency Domain processing: Fourier Transform --
-DFT and FFT; Filtering operations; Smoothing and Sharpening --
+DFT and FFT; Filtering operations; Smoothing and Sharpening -- 
 Selective filters; Filters for noise removal; Homomorphic filtering
 Restoration: Model of Image Degradation/Restoration Process, Noise
 Models
