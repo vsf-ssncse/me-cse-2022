@@ -1,26 +1,15 @@
-* <<<CP1203>>> WEB APPLICATION DEVELOPMENT
+*
 :properties:
 :author: B Prabavathy, V S Felix Enigo
 :date: 29 June 2018										
 :end:
 
 #+startup: showall
+{{{title-tab}}}
+| CODE | COURSE TITLE                | L | T | P | C |
+|      | WEB APPLICATION DEVELOPMENT | 3 | 0 | 0 | 3 |
 
-   ** CO PO MAPPING 
-#+NAME: co-po-mapping
-|                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
-|                |    | K3 | K6  |  K6 |  K6 | K6  |     |     |     |     |      |      |     
-| CO1            | K3 |  3 |  2  |  2  |     |     |     |     |     |     |      |      |    
-| CO2            | K3 |  3 |  2  |  2  |     |     |     |     |     |     |      |      |  
-| CO3            | K6 |  3 |  3  |  3  |  3  | 3   |     |     |     |     |      |   1  |    
-| Total          |    |  12|  7  |  7  |  3  | 3   |     |     |     |     |      |   1  |   
-| Course Mapping |    |  3 |  3  |  3  |  3  | 3   |     |     |     |     |      |   1  |  
-
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
-
-** Course Objectives
+** COURSE OBJECTIVES
 - To understand the concepts of web site development
 - To learn web application development using Javascript based framework
 - To learn web application development using Python based framework
@@ -29,8 +18,9 @@
 - To learn the basics of python
 - To learn web application development using Python based framework
 \end{comment}
+
 {{{unit}}}
-|Unit I| Introduction |9|
+| UNIT I | INTRODUCTION | 9 |
 Web Essentials: Web clients, web servers, communication protocol, HTTP
 request and response message; HTML5: Tables - Lists - Image -- Control
 and semantic elements, audio and video controls -- CSS3 - Inline,
@@ -39,7 +29,7 @@ Backgrounds -- Border Images -- Colors -- Shadows -- Text --
 Transformations -- Transitions -- Animations.
 
 {{{unit}}}
-|Unit II| Client Side Programming |9|
+| UNIT II | CLIENT SIDE PROGRAMMING | 9 |
 Introduction to Javascript -- Variables -- Data types -- Statements --
 Operators -- Functions --Objects -- Arrays -- Built-in objects --
 Event handling -- Introduction to DOM -- The document tree -- Node
@@ -56,14 +46,15 @@ Since the students have to study python framework in units 4  and 5, we thought 
 
 \begin{comment}
 {{{unit}}}
-|Unit III| Introduction to Python |9|
+|UNIT III| INTRODUCTION TO PYTHON |9|
 Python interpreter and interactive mode -- Data types -- Expressions
 -- Statements -- Control flow -- Functions -- Strings -- Arrays --
 Lists -- Tuples -- Sets -- Dictionaries -- Files -- Modules --
 Packages -- Exception handling -- Classes and objects
 \end{comment}
+
 {{{unit}}}
-|Unit III| Javascript Based Framework |9|
+| UNIT III | JAVASCRIPT BASED FRAMEWORK | 9 |
 Introduction to AngularJS -- Anatomy of AngularJS Application -- Data
 binding -- Model -- Module -- View -- Controller -- Expressions --
 Scope -- Table -- Select -- Form -- Validation -- DOM -- Event --
@@ -71,7 +62,7 @@ Directives
 
 
 {{{unit}}}
-|Unit IV|Web Application using Django |9|
+| UNIT IV | WEB APPLICATION USING DJANGO | 9 |
 Building a blog: Creating a project -- Running the
 development server -- Designing the model -- Setting up the database;
 Dynamic website basics -- MVC -- Django architecture - Defining and
@@ -97,19 +88,19 @@ Syndication -- Generating downloadable files -- Enhancing Django’s ORM
 5. Develop Inventory Management System using Django Framework
 \end{comment}
 
-** Course Outcomes:
+** COURSE OUTCOMES
 After the completion of this course, students will be able to:
 - Create website using HTML and CSS (K3)
 - Develop web application using java script based framework (K3)
 - Develop web applications using Python based framework (K3)
 
-** Course Outcomes (Batch 2021-2023)
+** COURSE OUTCOMES (Batch 2021-2023)
 After the completion of this course, students will be able to:
 - Create a website using HTML and CSS (K3). 
 - Develop web applications using the javascript-based framework (K3).
 - Develop web applications using a Python-based framework (K6). 
 
-** References
+** REFERENCES
 1. Jeffrey C Jackson, ``Web Technologies A Computer Science
    Perspective'', Pearson Education, 2011. (unit I)
 2. Deitel and Deitel and Nieto, ``Internet and World Wide Web - How to
