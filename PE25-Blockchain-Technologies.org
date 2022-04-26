@@ -1,7 +1,7 @@
-* <<<CP1236>>> BIO INFORMATICS
+* <<<CP1236>>> BLOCKCHAIN TECHNOLOGIES
 :properties:
-:author: R. S. Milton
-:date: 2 July 2018
+:author: J. SURESH
+:date: 26 April 2022
 :end:
 
 #+startup: showall
@@ -11,68 +11,52 @@
 |3 |0|0|3 |
 
 ** Course Objectives
-- To get exposed to the fundamentals of bioinformatics.
-- To learn bio-informatics algorithm and phylogenetic concept.
-- To understand open problems and issues in replication and molecular
-  clocks.
-- To learn assemble genomes and corresponding theorem.
-- To study and exposed to the domain of human genomics.
+- To understand blockchain technology and distributed systems
+-	To learn how decentralization of trust is achieved
+-	To study the technologies behind cryptocurrencies
+-	To impart knowledge of distributed ledgers in business
+-	To acquire knowledge in emerging concepts using blockchain
 
 {{{unit}}}
-|Unit I|Introduction and Fundamentals|9|
+|Unit I|Introduction to Blockchain|9|
 
-Fundamentals of genes , genomics , molecular evolution -- genomic
-technologies -- beginning of bioinformatics - genetic data -- sequence
-data formats -- secondary database -- examples -- data retrival
-systems -- genome browsers.
+Defining the Terms - Building blocks of Blockchain frameworks - Where is and where it’s going - Blockchain in Enterprise - Technology Considerations - Identity - Scalability - Security - Consensus - CAP - ACID Property - Benefits and Limitation of Blockchain
 
 {{{unit}}}
-|Unit II|Bioinformatics Algorithm and Analysis|9|
-Sequence alignment and similarity searching in genomic databases:
-BLAST and FASTA -- additional bioinformatics analysis involving
-nucleic acid sequences-additional bioinformatics analysis involving
-protein sequences -- Phylogenetic Analysis.
+|Unit II|Decentralization|9|
+Methods of Decentralization – Routes to Decentralization – Smart Contract – Decentralized Organization – Platforms for Decentralization – Consensus Algorithms.
 
 {{{unit}}}
-|Unit III|DNA Replication and Molecular Clocks|9|
-Beginning of DNA replication -- open problems -- multiple replication
-and finding replication -- computing probabilities of patterns in a
-string-the frequency array-converting patterns -- solving problems-
-finding frequents words-Big-O notation -- case study: The Tower of
-Hanoi problem.
+|Unit III|Crytocurrencies|9|
+Digital Money - Cryptography; Cryptocurrencies - Bitcoin - Ethereum; Digital Token; Alternative Coins
 
 {{{unit}}}
-|Unit IV|Assemble Genomes and Sequences|9|
-Methods of assemble genomes -- string reconstruction -- De Bruijn
-graph -- Euler's theorem -- assembling genomes --DNA sequencing
-technologies -- sequence antibiotics -- Brute Force Algorithm --
-Branch and Bound algorithm -- open problems -- comparing biological
-sequences- Case Study -- Manhattan tourist Problem.
+|Unit IV|Distributed Ledgers for Business|9|
+Ethereum: Introduction – Ethereum Network – Components – Programming Languages; Hyperledger: Introduction – Reference Architecture – Fabric – Sawtooth Lake – Corda.
 
 {{{unit}}}
-|Unit V|Human Genome|9|
-Human and mouse genomes-random breakage model of chromosome evolution
--- sorting by reversals -- greedy heuristic approach -- break points-
-rearrangements in tumor and break point genomes-break point graps --
-synteny block construction -open problems and technologies.
+|Unit V|Blockchain Development Tools and Frameworks|9|
+Compilers: Solidity – Ganache – Metamask – Truffle; Languages: Solidity – Go – Java – NodeJS; Blockchain Use Case: Financials – Insurance - Supply Chain Management – HealthCare – IoT.
 
 \hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to:
-- Understand the genomics technologies in Bioinformatics (K2)
-- Deploy the replication and molecular clocks in bioinformatics.(K3)
-- Understand how to assemble genomes and sequences.(K2)
-- Apply the Microarray technologies for genome expression(K3).
+- Explain the  importance of distributed ledgers and need of blockchain (K2)
+-	Describe decentralisation concepts and apply consensus algorithms (K3)
+-	Explain the basics of cryptography and its applications in cryptocurrencies (K2)
+-	Apply various distributed ledgers for business (K4)
+-	Make use of appropriate techniques for designing trust-based business networks (K4)
+
 
 ** References
-1. Ion Mandoiu and Alexander Zelikovsky , ``Computational Methods for
-   Next Generation Sequencing Data Analysis'', Wiley series 2016.
+1. Van Haren Publishing (Editor), “Introduction to Blockchain Technology: The Many Faces of Blockchain Technology in the 21st Century”, Paperback Import, 2019.
 2. Istvan Miklos, Renyi Institutue, ``Introduction to algorithms in
    bioinformatics'', Springer 2016
-3. Philip Compeau and Pavel pevzner, ``Bioinformatics Algorithms: An
-   Active Learning Approach'', Second edition volume I, Cousera, 2015.
-4. Supratim Choudhuri, ``Bioinformatics For Beginners'',
-   Elsevier, 2014.
-5. Jin Xiong, ``Essential Bioinformatics'', Cambridge University
-   Press, 2007
+3. Nitin Gaur, Luc Desrosiers, Petr Novotny, Venkatraman Ramakrishna, "Hands-on Blockchain with Hyperledger", Packt Publishers, 2018.
+4. Imran Bashir, “Mastering Blockchain” Packt 2nd Edition, 2018
+5. Adrian Mcnulty, “Blockchain: The Complete and Comprehensive Guide to Understanding Blockchain Technologies”, Createspace Independent Pub, 2018.
+6. Don, Alex Tapscott, “Blockchain Revolution”. Portfolio Penguin 2016.
+7. William Mougayar, “Business Blockchain Promise, Practice and Application of the Next Internet Technology”, John Wiley & Sons 2016.
+8. Tiana Laurence, “Blockchain for Dummies” John Wiley & Sons, 2017.
+9. Antony Lewis, "The basics of Bitcoins and Blockchains", Mango Publishing, Coral Gabels
