@@ -28,21 +28,18 @@ Benefits of EHR - Challenges of using EHR Data - Clinical
 Applications: EHR and Decision Support
 
 {{{unit}}}
-| UNIT III | BIG MEDICAL DATA | 6 |
-Digital Money - Cryptography; Cryptocurrencies - Bitcoin - Ethereum;
-Digital Token; Alternative Coins
+| UNIT III | BIG DATA FOR HEALTHCARE| 6 |
+Precision Medical data: Processing, Interpreting and Managing Biological Data; Techniques and Applications.
 
 {{{unit}}}
-| UNIT IV | MACHINE LEARNING AND AI FOR HEALTHCARE | 6 |
+| UNIT IV | AI AND MACHINE LEARNING FOR HEALTHCARE | 6 |
 AI in Healthcare - Diagnosing - Predicting - Mining the EHR; Use
-Cases: Breast Cancer Detection - Autism Screening with Machine
-Learning
+Cases: Breast Cancer Detection - Autism Screening.  
 
 {{{unit}}}
 | UNIT V | FUTURE OF BIG DATA IN HEALTHCARE | 6 |
-Management of Big Biomedical Data - Future direction of Healthcare and
-Big Data Analytics - Use Cases: Predicting of diabetes using binary
-class classification
+Management of Big Biomedical Data - Future directions of Healthcare and
+Big Data Analytics - Use Cases: Prediction of diabetes  
 
 \hfill *Total Periods: 30*
 
@@ -50,8 +47,8 @@ Suggestive Experiments (Python)
 1. Text Classification on Medical-Data (EHR)
 2. Healthcare Recommendation Evaluator (Decision Support)
 3. Breast Cancer Detection
-4. Autism Screening with Machine Learning
-5. Predicting of diabetes using binary class classification
+4. Autism Screening with Machine Learning algorithms
+5. Prediction of diabetes using binary class classification
 
 \hfill *Total Periods: 15*
 
@@ -60,8 +57,8 @@ After the completion of this course, students will be able to:
 - Explain the basic and advanced data analytics in public health (K2)
 - Utilize the available data sources for healthcare and develop a decision support system (K3)
 - Explain the methods and ways for processing big medical data (K2)
-- Develop a model for diagnosing and predicting of healthcare issues using machine learning and AI (K3)
-- Analyze the big data in healthcare using machine learning techniques (K4) 
+- Develop a model for diagnosing and predicting health issues using AI and machine learning (K3)
+- Analyze big data in healthcare using machine learning techniques (K4) 
 
 ** REFERENCES
 1. Chandan K. Reddy and Charu C. Aggarwal, “Healthcare Data Analytics”, CRC Press, Taylor & Francis Group, LLC., 2020
