@@ -25,19 +25,19 @@ Basic Concepts: Retrieval process -- Architecture -- Boolean
 retrieval; IR Models: Taxonomy and characterization of IR models --
 Classical IR models -- Alternative set theoretic models -- Alternative
 algebraic models; Models for Browsing; Retrieval Evaluation:
-Performance evaluation -- Reference collection
+Performance evaluation
 
 {{{unit}}}
 |Unit II|Indexing and Querying|9| 
 Indexing: Inverted indices -- Suffix trees -- Suffix arrays --
-Compression; Querying: Query languages -- Query operations: Relevance
+Burrows-wheeler transform; Querying: Query languages -- Query operations: Relevance
 feedback and query expansion - Automatic local and global analysis;
 Text Properties; Text Operations: Text preprocessing -- Text
 compression
 
 {{{unit}}}
 |Unit III|Searching|10| 
-Searching: Sequential searching -- Pattern matching; Searching the
+Searching: Sequential searching -- Pattern matching -- Compression; Searching the
 Web: Characteristizing the Web -- Search engines -- Browsing --
 Searching using hyperlinks
 
@@ -52,16 +52,18 @@ Semantic Indexing
 |Unit V|Applications|8|
 XML Retrieval -- Multimedia IR -- Parallel and Distributed IR --
 Digital Libraries -- Social Media Retrieval -- Content-based Image
-Retrieval
+Retrieval -- Advancements in Reference collection.
 
 \hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Describle vaious IR modeling techniques. (K2)
-- Identify and design the various components of an Information Retrieval system. (K3)
-- Apply machine learning techniques to text classification and clustering which is used for efficient Information Retrieval.  (K3)
-- Describe various IR applications. (K2)
+- Apply IR models for document retrieval. (K3)
+- Build the components of an information retrieval system. (K3)
+- Apply search strategies for IR. (K3)
+- Apply machine learning techniques to text classification and clustering used for efficient IR. (K3)
+- Explain various IR applications. (K2)
+
 
 ** References
 1. Ricardo Baeza-Yates, Berthier Ribeiro Neto, ``Modern Information
