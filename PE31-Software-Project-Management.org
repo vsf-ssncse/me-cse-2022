@@ -22,8 +22,7 @@
 
 {{{unit}}}
 |Unit I|Project Management and Costing 	|9|
-Software Project Management approaches – Project Acquisition – Initiation – Planning – PERTExecution and Control – CPM – Change Management – Project Closure – Agile SPM Problems in Software Estimation – Cost Estimation: Function Points, COCOMO II, Estimating Web Application Development – Concepts of Finance,
-Activity Based Costing and Economic Value Added (EVA) – Balanced Score Card.
+Software Project Management approaches – Project Acquisition – Initiation – Planning – PERTCPM – Change Management – Project Closure – Agile Project Management– Cost Estimation: Function Points, COCOMO II, 
 
 {{{unit}}}
 |Unit II|Process Models & Lifecycle Management|9|
