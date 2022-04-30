@@ -12,79 +12,68 @@
 
 # reduce the number of objectives to 5
 ** Course Objectives
-- To understand requirements specification and apply UML diagrams
-- To understand and apply software architectural styles and design patterns.
-- To understand and apply software testing techniques.
-- To be familiar with Agile software development methodology.
-- To understand DevOps practices
+- To review the best practices in the various phases of the software engineering lifecycle
+- To learn selection of suitable software architectural styles and tactics to achieve software quality requirements
+- To learn selection of appropriate object-oriented design patterns to improve maintainability and software evolution
+- To understand the DevOps Practices
+- To understand MLOps practices
   
 
 {{{unit}}}
-|Unit I | Software Requirements Specification  |9| 
-Requirement analysis and specification -- Requirements gathering and
-analysis -- Formal system specification -- Finite State Machines --
-Petrinets -- Object modelling using UML -- Use case Model -- Class
-diagrams -- Interaction diagrams -- Activity diagrams -- State chart
-diagrams -- Functional modelling -- Data Flow Diagrams.
+|Unit I | Software Engineering LifeCycle Review  |9| 
+Requirement analysis and specification --  
+Software Requirements Specification Document -- Object Oriented Design using UML Diagrams-- 
+Best Practices of Module Design -- Coupling and Cohesion --
+Software Testing -- Blackbox and Whitebox Techniques  -- 
+Agile Methodology -- Key Characteristics: Pair Programming -- Test-Driven Development
 
 {{{unit}}}
-|Unit II|Software Architecture and Design|9| 
+|Unit II|Software Architecture |9| 
 Architectural styles -- Layered -- Client/server -- Tiered -- Pipe and
-filter- Software design -- Design process -- Design concepts --
-Coupling -- Cohesion -- Functional independence -- Design patterns --
-Model-view-controller -- Publish-subscribe -- Adapter -- Command --
-Strategy -- Observer -- Proxy -- Facade - User interface design.
+filter- Event Driven -- Understanding Quality attributes - Tactics for achieving qualities in software  
 
 {{{unit}}}
-|Unit III| Software Testing |9| 
-Testing -- Unit testing -- Black box testing-- White box testing --
-Integration and System testing-- Regression testing -- Debugging --
-Program analysis -- Symbolic execution -- Model Checking.
+|Unit III| Software Design |9| 
+Object Oriented Design patterns --
+Model-view-controller -- Publish-subscribe -- Command --
+Strategy -- Observer -- Adapter -- Proxy -- Facade -- Factory Method
 
 {{{unit}}}
-|Unit IV|Agile Software Development|9|
-Introduction to Agile Methodology -- Evolution of Agile -- Self
-adaption: Growing and Reflection -- Pair Programming -- Agile methods
--- collaboration -- Releasing -- Planning -- Development.
-
-{{{unit}}}
-|Unit V| DevOps	|9| 
+|Unit IV|DevOps|9|
 DevOps: Motivation-Cloud as a platform -- Operations -- Deployment
 Pipeline: Overall Architecture -- Building and Testing -- Deployment
--- Crosscutting Concerns: Monitoring -- Security Audits Deployment --
-Case study: Migrating to Microservices.
+Case study: Migrating to Microservices
 
+{{{unit}}}
+|Unit V| MLOps	|9| 
+Introduction to MLOps -- MLOps Foundations -- MLOps for containers and Edge Devices --
+Continuous Delivery for ML Models -- AutoML
 
 
 \hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to:
-- Understand software requirement specification and model software system using UML diagrams  (K3)
-- Apply formal models to capture requirements
-- Apply appropriate architectural styles and design patterns (K3).
-- Apply various testing techniques(K3).
-- Understand Agile software development methodology(K2)
-- Understand the benefits of DevOps practices(K2).
+- Analyze the requirements and Design Software using UML diagrams to meet the specified requirements (K3)
+- Apply suitable software architectural styles and tactics to achieve software quality requirements(K3)
+- Apply appropriate object-oriented design patterns to improve maintainability and software evolution (K3).
+- Define DevOps Practices(K2)
+- Apply MLOps Practices(K3).
 
-      
-# The second and fourth references are unclear.
+     
 ** References
 1. Rajib Mall, ``Fundamentals of Software Engineering'', 3rd edition,
-   PHI Learning Pvt Ltd, 2009 (Unit I, II & III)
-2. Carlo Ghezzi, Mehdi Jazayeri, Dino Mandrioli, ``Fundamentals of
-   Software Engineering'', 2nd edition, PHI Learning
-   Pvt Ltd, 2010 (Unit I & III)
+   PHI Learning Pvt Ltd, 2009 (Unit I)
+2. Craig Larman, ``Applying UML and Patterns'', 3rd edition, Pearson
+   Education, 2005 (Unit I)
 3. Mary Shaw, David Garlan, ``Software Architecture: Perspectives on
    an Emerging Discipline'', Pearson Education, 1996 (Unit II)
-4. Craig Larman, ``Applying UML and Patterns'', 3rd edition, Pearson
-   Education, 2005 (Unit I, II & III)
-5. Alistair Cockburn, Jim Highsmith, ``Agile Software Development --
-   The Cooperative Game'', Second edition, Pearson Education, 2007
-6. James Shore, Shane Warden, ``The Art of Agile Development'',
-   O'Reilly, Shroff Publishers 2011 (Unit IV)
+4. Len Bass, Paul Clements, Rick Kazman, "Software Architecture in Practice", Second Edition, Addison-Wesley, 2003 (Unit II)
+5. Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, "Design Patterns: Elements of Reusable Object-Oriented Software", Pearson Education, 1995 (Unit III)
+6. Eic Freeman and Elisabeth Freeman, "Head First Design Patterns", O'Reilly Media, 2007 (Unit III)
 7. Len Bass, Ingo Weber and Liming Zhu, ``DevOps: A Software
-   Architect's Perspective'', Pearson Education, 2016 (Unit V)
+   Architect's Perspective'', Pearson Education, 2016 (Unit IV)
+8. Noah Gift, Alfredo Deza, "Practical MLOps", O'Reilly Publisheres, 2021 (Unit V)
 
  
 
