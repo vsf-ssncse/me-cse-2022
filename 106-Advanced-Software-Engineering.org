@@ -1,7 +1,7 @@
 * <<<PCP1177>>> ADVANCED SOFTWARE ENGINEERING
 :properties:
 :author: Chitra Babu
-:date: 13 July 2018
+:date: 30 April 2022
 :end:
 
 #+startup: showall
@@ -10,7 +10,6 @@
 |L|T|P|C|
 |3|0|0|3|
 
-# reduce the number of objectives to 5
 ** Course Objectives
 - To review the best practices in the various phases of the software engineering lifecycle
 - To learn selection of suitable software architectural styles and tactics to achieve software quality requirements
@@ -54,7 +53,7 @@ Continuous Delivery for ML Models -- AutoML
 
 ** Course Outcomes
 After the completion of this course, students will be able to:
-- Analyze the requirements and Design Software using UML diagrams to meet the specified requirements (K3)
+- Analyze the requirements and design software using UML diagrams to meet the specified requirements (K3)
 - Apply suitable software architectural styles and tactics to achieve software quality requirements(K3)
 - Apply appropriate object-oriented design patterns to improve maintainability and software evolution (K3).
 - Define DevOps Practices(K2)
@@ -73,7 +72,7 @@ After the completion of this course, students will be able to:
 6. Eic Freeman and Elisabeth Freeman, "Head First Design Patterns", O'Reilly Media, 2007 (Unit III)
 7. Len Bass, Ingo Weber and Liming Zhu, ``DevOps: A Software
    Architect's Perspective'', Pearson Education, 2016 (Unit IV)
-8. Noah Gift, Alfredo Deza, "Practical MLOps", O'Reilly Publisheres, 2021 (Unit V)
+8. Noah Gift, Alfredo Deza, "Practical MLOps", O'Reilly Media, 2021 (Unit V)
 
  
 
