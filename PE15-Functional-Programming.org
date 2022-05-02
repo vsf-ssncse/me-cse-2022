@@ -1,6 +1,6 @@
 * <<<PE107>>> FUNCTIONAL PROGRAMMING
 :properties:
-:author: R Kanchana
+:author: S.Rajalakshmi, R Kanchana
 :date: 
 :end:
 #+startup: showall
@@ -81,7 +81,7 @@ After the completion of this course, students will be able to:
 3. Maurizio Gabbrielli, Simone Martini, ``Programming Languages:
    Principles and Paradigms'', Springer, 2010
    
-   \begin{{comment}}
+#+BEGIN_COMMENT
    
 
 * <<<CP1335>>> FORMAL VERIFICATION
@@ -162,4 +162,4 @@ After the completion of this course, students will be able to:
    IOS Press, 2009. (Unit V)
 4. C Baier and J Katoen, ``Principles of Model checking'', The MIT
    Press, 2008.
-\end{{comment}}
+#+END_COMMENT
