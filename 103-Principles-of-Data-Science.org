@@ -52,16 +52,12 @@ After the completion of this course, students will be able to
 
       
 ** TEXT BOOKS
-1. Davy Cielen, Arno D B Meysman, Mohamed Ali, ``Introducing Data Science – Big data,
-Machine Learning, and more using Python tools'', Manning Publications Co, 2016.
-2. Wes McKinney, ``Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython”,
-O’Reilly, 2nd Edition,2018.
-3. Laura Igual, Santi Segua, ``Introduction to Data Science – A Python Approach to Concepts,
-Techniques and Applications'', Springer Nature, 2017
+1. Davy Cielen, Arno D B Meysman, Mohamed Ali, ``Introducing Data Science – Big data, Machine Learning, and more using Python tools'', Manning Publications Co, 2016. (Unit I)
+2. Wes McKinney, ``Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython”, O’Reilly, 2nd Edition,2018. (Unit II & III)
+3. Laura Igual, Santi Segua, ``Introduction to Data Science – A Python Approach to Concepts, Techniques and Applications'', Springer Nature, 2017 (Unit IV & V)
 
 ** REFERENCE BOOKS
-1. Jake VanderPlas, ``Python Data Science Handbook: ``Essential Tools for Working with Data'',
-O'Reilly Media, 2016.
+1. Jake VanderPlas, ``Python Data Science Handbook: ``Essential Tools for Working with Data'', O'Reilly Media, 2016.
 2. Foster Provost, Tom Fawcett, ``Data Science for Business'', O'Reilly Media, 2013
 3. Rachel Schutt, Cathy O'Neil, ``Doing Data Science'', O'Reilly Media, 2016
 
