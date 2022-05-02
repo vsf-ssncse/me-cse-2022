@@ -1,4 +1,4 @@
-* <<<CP1204>>> PRINCIPLES OF DATA SCIENCE
+* <<<CPXXXX>>> PRINCIPLES OF DATA SCIENCE
 :properties:
 :author: Dr. Y. V. Lokeswai
 :date: 02-May-2022
@@ -61,7 +61,7 @@ Techniques and Applications'', Springer Nature, 2017
 
 ** REFERENCE BOOKS
 1. Jake VanderPlas, ``Python Data Science Handbook: ``Essential Tools for Working with Data'',
-O'Reilly Media, 2016
+O'Reilly Media, 2016.
 2. Foster Provost, Tom Fawcett, ``Data Science for Business'', O'Reilly Media, 2013
 3. Rachel Schutt, Cathy O'Neil, ``Doing Data Science'', O'Reilly Media, 2016
 
