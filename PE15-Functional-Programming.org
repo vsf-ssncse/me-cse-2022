@@ -56,22 +56,18 @@ Liveness -- Safe access to shared data -- Examples in Java.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand imperative programming paradigm and some examples in C
-  (K3)
-- Understand object-oriented programming paradigm and explore some
-  examples in C++ or Java or Python (K3)
-- Understand functional programming paradigm and explore some examples
-  in Haskell (K3)
-- Understand logic programming paradigm and explore some examples in
-  Prolog (K3)
-- Understand concurrent programming paradigm and explore some examples
-  in Java (K3).
+- Outline imperative programming paradigm and its use in C (K2)
+- Illustrate object-oriented programming paradigm and explore some
+  examples in C++ or Java or Python (K2)
+- Apply functional programming paradigm in Haskell (K3)
+- Develop programs in Prolog using logic programming paradigm (K3)
+- Solve Java programs using concurrent programming paradigm (K3).
 
 ** TEXT BOOKS
 1. Ravi Sethi, Viswanatha K V, ``Programming Languages : Concepts and
-   constructs'', 2nd Edition, Pearson, 2011
+   constructs'', 2nd Edition, Pearson, 2011 (Unit I, III, IV, V)
 2. Allan B Tucker, Robert E Noonan, ``Programming Languages:
-   Principles and Paradigms'', 2nd Edition, McGraw Hill, 2007
+   Principles and Paradigms'', 2nd Edition, McGraw Hill, 2012 - (Unit II, III, IV)
 
 ** REFERENCES
 1. Michael Scott, ``Programming Language Pragmatics'', 4th Edition,
