@@ -1,4 +1,4 @@
-* <<<CP1332>>> AGILE SOFTWARE ENGINEERING
+* <<<PE41>>> Edge Analytics 
 :properties:
 :author: J. Bhuvana, T. T. Mirnalinee 
 :date: 02 May 2022
