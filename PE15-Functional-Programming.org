@@ -23,7 +23,7 @@
 ** COURSE OBJECTIVES
 - To introduce various programming paradidgms
 - To understand programming paradigms such as imperative,
-  object-oriented, logic, functional and concuuent with illustrative
+  object-oriented, logic, functional and concurrent with illustrative
   examples.
 
 {{{unit}}}
