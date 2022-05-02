@@ -1,7 +1,7 @@
 * <<<CP1332>>> AGILE SOFTWARE ENGINEERING
 :properties:
-:author: A.Chamundeswari, K Vallidevi 
-:date: 30 June 2018
+:author: J. Bhuvana, T. T. Mirnalinee 
+:date: 02 May 2022
 :end:
 
 #+startup: showall
@@ -11,79 +11,66 @@
 |3|0|0|3|
 
 ** Course Objectives
- - Understand agile software development practices  
- - Demonstrate Agile development and testing techniques 
- - Know the benefits and pitfalls of working in an Agile team
- - Understand agile development and testing. 
+ - 	Discuss the various computing paradigms and challenges of edge computing environment 
+ - 	Discuss the various hardware needed for edge architecture
+ - 	Learn about federated learning techniques and inferences at edge systems.
+ - 	Discuss the technologies and components used to create an edge analytics application.
+ - 	Discuss about the applications of edge computing
+
 
 {{{unit}}}
-|Unit I |Agile software development|9| 
-Agile software development ; Traditional software development --
-waterfall approach -- requirements -- design phase -- implementation
--- testing -- support -- advantages and disadvantages; incremental
-development; Lean software development; scrum; test driven
-development; extreme programming; rational unified process; agile
-unified process; Agile model driven development.
+|Unit I |Internet of Things (IoT) and New Computing Paradigms|9| 
+Introduction -- Relevant Technologies -- Fog and Edge Computing -- Hierarchy of Fog and Edge Computing;
+
+The Networking Challenge -- Networking Challenges in a Federated Edge Environment -- Addressing the Networking Challenge -- The Management Challenge -- Miscellaneous and Research challenges.
+
 
 {{{unit}}}
-|Unit II|Agile XP product development |9| 
-People and Teams working together -- Team behaviour in XP projects --
-setting up a team -- developing team skills -- training together;
-organizational framework; planning -- PERT -- Gantt charts; Dealing
-with problem -- basic strategies -- when things go really wrong; risk
-analysis; starting XP project -- business analysis and problem
-discovery; techniques for requirement elicitation; Developing the
-requirement documents.
+|Unit II|  Edge computing hardware  |8| 
+Edge Hardware for AI -- Edge Data Analysis for Edge AI -- Communication and Computation Modes for Edge AI -- Tailoring Edge Frameworks for AI -- Performance Evaluation for Edge AI;
+
+Basic edge analytics components -- Communications Protocols -- Edge Computing State-of-the-Art Interfaces and Devices -- Edge Computing Simulators.
+
 
 {{{unit}}}
-|Unit III|Building user stories and testing|9| 
-Identifying stories and preparing to build -- looking at the user
-stories; collection of stories; user interfaces; communicating clearly
-with the customer and building confidence; demonstrating the
-non-functional requirements -- non functional requirements; Estimating
-resources -- software cost estimation -- object point analysis --
-COSMIC FFP -- Design for test; Automating unit tests -- writing unit
-tests in JUnit -- managing tests.
+|Unit III|Artificial Intelligence for Edge computing |9| 
+Distributed DL Training -- Potential DL Libraries for Edge;
+
+Artificial Intelligence Training at Edge:  Distributed Training at Edge -- Vanilla Federated Learning at Edge -- Resource-Optimized FL -- Security-Enhanced FL- Communication-Efficient FL; 
+
+Artificial Intelligence Inference in Edge: Optimization of AI Models in Edge -- Segmentation of AI Models -- Early Exit of Inference (EEoI) -- Sharing of AI Computation.
+
 
 {{{unit}}}
-|Unit IV|Agile practice validation |9| 
-Study Design -- Survey field study -- Questionnaire Design -- Data
-collection procedure; Construct operationalization -- Adoption of
-agile practices -- teamwork and contextual variables -- team
-performance -- instrument validation; Analysis methods -- regression
-analysis -- structural equation modelling -- selecting appropriate
-analysis techniques; Assessment of team performance; Hypotheses:
-Test and Evaluation -- measurement model effects on team potency and
-team performance.
+|Unit IV|Edge Analytics  |10| 
+Edge Data Analytics -- Potential of Edge Analytics -- Architecture of Edge Analytics -- Machine Learning for Edge Devices -- Edge Analytics: Case Study;
+
+Key benefits of edge analytics -- Working with Microsoft Azure IoT Hub -- Using the Raspberry Pi with Azure IoT Edge. 
+
+Types of attacks against our edge analytics applications -- Protecting our edge analytics applications -- Monitoring and auditing our edge analytics applications.
+
 
 {{{unit}}}
-|Unit V|Agility and Quality assurance|9|
-Agile Interaction Design -- Agile product development -- Agile Metrics
--- Feature Driven Development (FDD) -- Financial and Production
-Metrics in FDD -- Agile approach to Quality Assurance -- Test Driven
-Development -- Pair programming: Issues and Challenges -- Agile
-approach to Global Software Development.  
+|Unit V|Edge Computing Applications |9|
+Edge Computing use Cases -- Realization of Edge Computing in Healthcare Ensuring Storage Security; 
+Industrial Internet of Things (IIoT) Applications of Edge and Fog Computing: A Review and Future Directions -- Leveraging Edge Computing for Mobile Augmented Reality;
+Smart Surveillance Video Stream Processing at the Edge for Real-Time Human Objects Tracking.
+ 
 
 \hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Define the interaction with business stakeholders in determining the
-  requirements for a software system. (K2)
-- Apply iterative software development process. (K3)
-- Determine the impact of social aspects on software development success. (K3)
-- Explain the approach of product development using Agile. (K2)
-- Prepare the solution using agile knowledge sharing methods. (K3)
-      
+- Describe the fundamentals and challenges of edge computing (K2)
+- Explain the use and need of different hardware components of edge computing (K2)
+- Apply the advanced concepts and frameworks of edge AI (K3) 
+- Apply the technologies used for  edge analytics and developing solutions (K3)
+- Analyse the performance of the applications developed using edge architecture (K3)
+
 ** References
-1. Thomas Stober, Uwe Hansmann, Agile Software Development: Best
-   Practices for Large Software Development Projects, Springer-Verlag
-   Berlin Heidelberg 2010.(Unit 1)
-2. Mike Holcombe, Running an Agile Software Development Project,
-   University of Sheffield, United Kingdom, John Wiley &amp; Sons,
-   Inc., Hoboken, New Jersey, 2008.(Unit 2,3)
-3. Christoph Schmidt, Agile Software Development Teams, Springer
-   International Publishing Switzerland 2016. (Unit 4)
-4. Dingsoyr, Torgeir, Dyba, Tore, Moe, Nils Brede (Eds.), Agile
-   Software Development, Current Research and Future Directions?,
-   Springer-Verlag Berlin Heidelberg, 2010 (Unit 5)
+1.	Rajkumar Buyya and Satish Narayana Srirama, Fog and Edge Computing Principles and Paradigms, Wiley, 2019. (Unit- 1, 5)
+2.	K. Anitha Kumari G. Sudha Sadasivam D. Dharani M. Niranjanamurthy, Edge Computing Fundamentals, Advances and Applications, CRC Press, 2022. (Unit- 2, 4, 5)
+3.	Xiaofei¬Wang, Yiwen¬Han¬, Victor¬C.¬M.¬Leung¬, Dusit¬Niyato¬, Xueqiang¬Yan¬, Xu¬ChenEdge, AI Convergence of¬ Edge Computing and Artificial Intelligence, Springer,   2020. (Unit – 2, 3)
+4.	Wei Chang,  Jie Wu Fog, Edge Computing For Security, Privacy, and Applications, Springer, 2021. (Unit – 5)
+5.	Colin Dow, Hands-On Edge Analytics with Azure IoT- Design and develop IoT applications with edge analytical solutions including Azure IoT Edge, Packt Publishing, 2020. (Unit-4)
+
