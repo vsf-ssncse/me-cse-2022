@@ -1,4 +1,4 @@
-* <<<CPXXX>>> DATA SCIENCE LAB
+* <<<CPXXXX>>> DATA SCIENCE LAB
 :properties:
 :author: Dr. Y. V. Lokeswari
 :date: 02-May-2022
@@ -74,7 +74,6 @@ Import any CSV file and perform Exploratory Data Analysis: Data summarization.
 9. Download data from UCI Machine Learning Repository and perform the supervised learning algorithm. Implement the Linear Regression for the given application.
 
 10. Download data from UCI Machine Learning Repository and perform the unsupervised learning algorithm. Implement the K Means Clustering algorithm for the given application.
-
 
 \hfill *Total: 45*
 
