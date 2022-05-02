@@ -1,4 +1,4 @@
-* <<<CP1211>>> DATA SCIENCE LAB
+* <<<CPXXX>>> DATA SCIENCE LAB
 :properties:
 :author: Dr. Y. V. Lokeswari
 :date: 02-May-2022
@@ -76,7 +76,7 @@ Import any CSV file and perform Exploratory Data Analysis: Data summarization.
 10. Download data from UCI Machine Learning Repository and perform the unsupervised learning algorithm. Implement the K Means Clustering algorithm for the given application.
 
 
-\hfill *Total: 60*
+\hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
