@@ -22,10 +22,11 @@
 *** Python
 1. Implement basic data types and user defined functions using Python.
 i.	Implement basic Python programs for reading input from console.
-ii.	Perform Creation, indexing, slicing, concatenation, and repetition operations on Python built-in data types: Strings, List, Tuples, Dictionary, Set
-iii.	Apply Python built-in data types: Strings, List, Tuples, Dictionary, Set and their methods to solve any given problem 
-iv.	Handle numerical operations using math and random number functions
+ii.	Perform Creation, indexing, slicing, concatenation, and repetition operations on Python built-in data types: Strings, List, Tuples, Dictionary, Set. 
+iii.	Apply Python built-in data types: Strings, List, Tuples, Dictionary, Set and their methods to solve any given problem.
+iv.	Handle numerical operations using math and random number functions.
 v.	Create user-defined functions with different types of function arguments.
+
 ***Files with Python
 2. Develop python programs for packages and working on files.
 i.	Create packages and import modules from packages.
@@ -39,7 +40,6 @@ ii.	Manipulation of NumPy arrays- Indexing, Slicing, Reshaping, Joining and Spli
 iii.	Computation on NumPy arrays using Universal Functions and Mathematical methods.
 
 4.  Perform manipulations on the CSV files and images using NumPy package.
-
 i.	Import a CSV file and perform various Statistical and Comparison operations on rows/columns.
 ii.	Load an image file and do crop and flip operation using NumPy Indexing.
 
@@ -47,35 +47,33 @@ ii.	Load an image file and do crop and flip operation using NumPy Indexing.
 5. Perform data manipulation on the input CSV file using Pandas Package.
 i.	Create Pandas Series and DataFrame from various inputs.
 ii.	Import any CSV file to Pandas DataFrame and perform the following:
-a)	Visualize the first and last 10 records
-b)	Get the shape, index and column details
-c)	Select/Delete the records(rows)/columns based on conditions.
-d)	Perform ranking and sorting operations.
-e)	Do required statistical operations on the given columns.
-f)	Find the count and uniqueness of the given categorical values.
-g)	Rename single/multiple columns.
+a.	Visualize the first and last 10 records
+b.	Get the shape, index and column details
+c.	Select/Delete the records(rows)/columns based on conditions.
+d.	Perform ranking and sorting operations.
+e.	Do required statistical operations on the given columns.
+f.	Find the count and uniqueness of the given categorical values.
+g.	Rename single/multiple columns.
 
 *** Visualization
 
 6. Perform data preparation and visualization on the input CSV file using Pandas matplotlib pacakages.
-
 i.	Import any CSV file to Pandas DataFrame and perform the following:
-a)	Handle missing data by detecting and dropping/ filling missing values.
-b)	Transform data using apply() and map() method.
-c)	Detect and filter outliers.
-d)	Perform Vectorized String operations on Pandas Series.
-e)	Visualize data using Line Plots, Bar Plots, Histograms, Density Plots and Scatter Plots.
+a.	Handle missing data by detecting and dropping/ filling missing values.
+b.	Transform data using apply() and map() method.
+c.	Detect and filter outliers.
+d.	Perform Vectorized String operations on Pandas Series.
+e.	Visualize data using Line Plots, Bar Plots, Histograms, Density Plots and Scatter Plots.
 
 *** Statistical Analysis.
 7. Perform Exploratory Data Analysis on a CSV file.
-Import any CSV file and perform Exploratory Data Analysis: Data summarization,  
+Import any CSV file and perform Exploratory Data Analysis: Data summarization.
 8. Compute the following for the given data set using NumPy package. Compute Mean, Variance, Standard Deviation, Sampling, Covariance, Correlation.
 
 *** Machine Learning
 9. Download data from UCI Machine Learning Repository and perform the supervised learning algorithm. Implement the Linear Regression for the given application.
 
 10. Download data from UCI Machine Learning Repository and perform the unsupervised learning algorithm. Implement the K Means Clustering algorithm for the given application.
-
 
 
 \hfill *Total: 60*
