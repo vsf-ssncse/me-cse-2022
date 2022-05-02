@@ -70,7 +70,7 @@ After the completion of this course, students will be able to:
 ** References
 1.	Rajkumar Buyya and Satish Narayana Srirama, Fog and Edge Computing Principles and Paradigms, Wiley, 2019. (Unit- 1, 5)
 2.	K. Anitha Kumari G. Sudha Sadasivam D. Dharani M. Niranjanamurthy, Edge Computing Fundamentals, Advances and Applications, CRC Press, 2022. (Unit- 2, 4, 5)
-3.	Xiaofei¬Wang, Yiwen¬Han¬, Victor¬C.¬M.¬Leung¬, Dusit¬Niyato¬, Xueqiang¬Yan¬, Xu¬ChenEdge, AI Convergence of¬ Edge Computing and Artificial Intelligence, Springer,   2020. (Unit – 2, 3)
+3.	3.	Xiaofei Wang, Yiwen Han, Victor C.M.Leung, Dusit Niyato, Xueqiang Yan , Xu¬ChenEdge, AI Convergence of Edge Computing and Artificial Intelligence, Springer, 2020 (Unit – 2, 3)
 4.	Wei Chang,  Jie Wu Fog, Edge Computing For Security, Privacy, and Applications, Springer, 2021. (Unit – 5)
 5.	Colin Dow, Hands-On Edge Analytics with Azure IoT- Design and develop IoT applications with edge analytical solutions including Azure IoT Edge, Packt Publishing, 2020. (Unit-4)
 
