@@ -28,8 +28,8 @@ Agile Methodology: Pair Programming -- Test-Driven Development
 
 {{{unit}}}
 |Unit II|Software Architecture |9| 
-Architectural styles -- Layered -- Client/server -- Tiered -- Pipe and
-filter- Event Driven -- Understanding Quality attributes - Tactics for achieving qualities in software  
+Architectural styles: Layered -- Client/server -- Tiered -- Pipe and
+filter- Event Driven -- Understanding Quality attributes -- Tactics for achieving qualities in software  
 
 {{{unit}}}
 |Unit III| Software Design |9| 
