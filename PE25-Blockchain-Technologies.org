@@ -19,33 +19,23 @@
 
 {{{unit}}}
 | UNIT I | INTRODUCTION TO BLOCKCHAIN | 9 |
-Defining the Terms - Building blocks of Blockchain frameworks - Where
-is and where it’s going - Blockchain in Enterprise - Technology
-Considerations - Identity - Scalability - Security - Consensus - CAP -
-ACID Property - Benefits and Limitation of Blockchain
+Defining the Terms - Building blocks of Blockchain frameworks - Where is and where it’s going - Blockchain in Enterprise - Technology Considerations - Identity - Scalability - Security - Consensus - CAP - ACID Property - Benefits and Limitation of Blockchain.
 
 {{{unit}}}
 |UNIT II|DECENTRALIZATION|9|
-Methods of Decentralization – Routes to Decentralization – Smart
-Contract – Decentralized Organization – Platforms for Decentralization
-– Consensus Algorithms.
+Methods of Decentralization – Routes to Decentralization – Smart Contract – Decentralized Organization – Platforms for Decentralization – Consensus Algorithms.
 
 {{{unit}}}
 |UNIT III|CRYTOCURRENCIES|9|
-Digital Money - Cryptography; Cryptocurrencies - Bitcoin - Ethereum;
-Digital Token; Alternative Coins
+Digital Money - Cryptography; Cryptocurrencies - Bitcoin - Ethereum; Digital Token; Alternative Coins
 
 {{{unit}}}
 |UNIT IV|DISTRIBUTED LEDGERS FOR BUSINESS|9|
-Ethereum: Introduction – Ethereum Network – Components – Programming
-Languages; Hyperledger: Introduction – Reference Architecture – Fabric
-– Sawtooth Lake – Corda.
+Ethereum: Introduction – Ethereum Network – Components – Programming Languages; Hyperledger: Introduction – Reference Architecture – Fabric – Sawtooth Lake – Corda.
 
 {{{unit}}}
 | UNIT V | BLOCKCHAIN DEVELOPMENT TOOLS AND FRAMEWORKS | 9 |
-Compilers: Solidity – Ganache – Metamask – Truffle; Languages:
-Solidity – Go – Java – NodeJS; Blockchain Use Case: Financials –
-Insurance - Supply Chain Management – HealthCare – IoT.
+Compilers: Solidity – Ganache – Metamask – Truffle; Languages: Solidity – Go – Java – NodeJS; Blockchain Use Case: Financials – Insurance - Supply Chain Management – HealthCare – IoT.
 
 \hfill *Total Periods: 45*
 
@@ -59,16 +49,12 @@ After the completion of this course, students will be able to:
 
 
 ** REFERENCES
-1. Van Haren Publishing (Editor), “Introduction to Blockchain Technology: The Many Faces of Blockchain Technology in the 21st Century”, Paperback Import, 2019.
-2. Istvan Miklos, Renyi Institutue, ``Introduction to algorithms in
-   bioinformatics'', Springer 2016
-3. Nitin Gaur, Luc Desrosiers, Petr Novotny, Venkatraman Ramakrishna, "Hands-on Blockchain with Hyperledger", Packt Publishers, 2018.
-4. Imran Bashir, “Mastering Blockchain” Packt 2nd Edition, 2018
-5. Adrian Mcnulty, “Blockchain: The Complete and Comprehensive Guide to Understanding Blockchain Technologies”, Createspace Independent Pub, 2018.
-6. Don, Alex Tapscott, “Blockchain Revolution”. Portfolio Penguin 2016.
-7. William Mougayar, “Business Blockchain Promise, Practice and Application of the Next Internet Technology”, John Wiley & Sons 2016.
-8. Tiana Laurence, “Blockchain for Dummies” John Wiley & Sons, 2017.
-9. Antony Lewis, "The basics of Bitcoins and Blockchains", Mango Publishing, Coral Gabels
+- Nitin Gaur, Luc Desrosiers, Petr Novotny, Venkatraman Ramakrishna, "Hands-on Blockchain with Hyperledger", Packt Publishers, 2018. (Unit I & IV)
+- Antony Lewis, "The basics of Bitcoins and Blockchains", Mango Publishing, Coral Gabels (Unit III)
+- Imran Bashir, “Mastering Blockchain” Packt 2nd Edition, 2018. (Unit II, IV & V)
+- Kevin Solorio, Randall Kanna, David H. Hoover, "Hands-On Smart Contract Development with Solidity and Ethereum: From Fundamentals to Deployment", First Edition, OReilly Publications, 2019.
+- Will Button, "Hands-On Blockchain Development in 7 Days: Create a decentralized gaming application using Ethereum Paperback", Packt Publishers, 2019.
+
 
 ** CO TO PO MAPPING
 | PO/PSO | 1 | 2 | 3 | 4 |
