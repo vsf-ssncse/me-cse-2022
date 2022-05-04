@@ -38,12 +38,12 @@ Introduction to Django: Django Template System – Interacting with Database (Mo
 \hfill *Total: 30*
 
 ** Suggested Mini-projects
-•	Create a college website using HTML5 and CSS3
-•	Develop a MVC based web application for a Super Market Billing System. 
-•	Develop online exam web application using AngularJS
-•	Develop a web application for personal website using ExpressJS
-•	Develop a web application for student information system that allows to perform CRUD operations using ExpressJS and MySQL
-•	Develop Library Management System using MVC Django Architecture
+- Create a college website using HTML5 and CSS3
+- Develop a MVC based web application for a Super Market Billing System. 
+- Develop online exam web application using AngularJS
+- Develop a web application for personal website using ExpressJS
+- Develop a web application for student information system that allows to perform CRUD operations using ExpressJS and MySQL
+- Develop Library Management System using MVC Django Architecture
 
 \hfill *Total: 15*
 
@@ -54,7 +54,6 @@ After the completion of this course, students will be able to:
 - Develop web application using AngularJS MVW framework (K3). 
 - Develop web application using java script-based framework (K3). 
 - Examine the web applications build using Python based framework (K4).
-
 
 ** REFERENCES
 1. Jeffrey C Jackson, Web Technologies A Computer Science Perspective, Pearson Education, 2011. (Unit I) 
