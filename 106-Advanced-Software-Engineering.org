@@ -47,8 +47,8 @@ Case study: Migrating to Microservices
 |Unit V| MLOps	|9| 
 Introduction to MLOps: What is MLOps? -- DevOps and MLOps -- An MLops Hierarchy of needs -- 
 MLOps Foundations: Machine Learning Key Concepts -- Build an MLOps Pipeline from Zero --  
-Continuous Delivery for ML Models: Packaging for ML Models -- Infrastructure as Code for Cintinuous Delivery of ML Models 
-using Cloud Pipelines -- AutoML
+Continuous Delivery for ML Models: Packaging for ML Models -- Infrastructure as Code for Continuous Delivery of ML Models 
+-- Using Cloud Pipelines -- AutoML
 
 
 \hfill *Total: 45*
