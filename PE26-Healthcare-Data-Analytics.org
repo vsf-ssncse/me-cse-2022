@@ -28,8 +28,8 @@ Benefits of EHR - Challenges of using EHR Data - Clinical
 Applications: EHR and Decision Support
 
 {{{unit}}}
-| UNIT III | BIG DATA FOR HEALTHCARE| 6 |
-Precision Medical data: Processing, Interpreting and Managing Biological Data; Techniques and Applications.
+| UNIT III | HEALTHCARE ANALYTICS | 6 |
+Introduction; Making Predictive Models in Healthcare;  Healthcare Predictive Models – Predictive Healthcare Analytics (State-of-the-art) – ML Applications for Cancer – Readmission Prediction
 
 {{{unit}}}
 | UNIT IV | AI AND MACHINE LEARNING FOR HEALTHCARE | 6 |
@@ -56,16 +56,17 @@ Suggestive Experiments (Python)
 After the completion of this course, students will be able to:
 - Explain the basic and advanced data analytics in public health (K2)
 - Utilize the available data sources for healthcare and develop a decision support system (K3)
-- Explain the methods and ways for processing big medical data (K2)
+- Explain the predictive models and ways for processing healthcare data (K2)
 - Develop a model for diagnosing and predicting health issues using AI and machine learning (K3)
 - Analyze big data in healthcare using machine learning techniques (K4) 
 
 ** REFERENCES
-1. Chandan K. Reddy and Charu C. Aggarwal, “Healthcare Data Analytics”, CRC Press, Taylor & Francis Group, LLC., 2020
-2. Panta Keikhosrokiani, "Big Data Anlytics for Healthcare", Academic Press, 1st Edition, 2022.
-3. Arjun Panesar, "Machine Learning and AI for Healthcare", APress publications, 2nd Edition, 2020.
-4. Eduonix Learning Solutions, "Machine Learning for Healthcare Analytics Projects", PACKT Publishers, 1st Edition, 2018.
-5. Vikas, "Healthcare Analytics Made Simple: Techniques in Healthcare Computing using Machine Learning", PACKT publishers, 2018.
+1.	Chandan K. Reddy and Charu C. Aggarwal, “Healthcare Data Analytics”, CRC Press, Taylor & Francis Group, LLC., 2020 (Unit I & II)
+2. Vikas, "Healthcare Analytics Made Simple: Techniques in Healthcare Computing using Machine Learning", PACKT publishers, 2018 (Unit III)
+3. Eduonix Learning Solutions, "Machine Learning for Healthcare Analytics Projects", PACKT Publishers, 1st Edition, 2018. (Unit IV) 
+4. Panta Keikhosrokiani, "Big Data Anlytics for Healthcare", Academic Press, 1st Edition, 2022. (Unit V)
+5. Arjun Panesar, "Machine Learning and AI for Healthcare", APress publications, 2nd Edition, 2020.
+
 
 ** CO TO PO MAPPING
 | PO/PSO | 1 | 2 | 3 | 4 |
