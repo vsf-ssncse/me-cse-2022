@@ -1,7 +1,7 @@
-*
+
 :properties:
-:author: B Prabavathy, V S Felix Enigo
-:date: 29 June 2018										
+:author: Suresh J
+:date: 04.05.2022										
 :end:
 
 #+startup: showall
@@ -13,99 +13,53 @@
 - To understand the concepts of web site development
 - To learn web application development using Javascript based framework
 - To learn web application development using Python based framework
-\begin{comment}
-- To understand the concepts of web site development
-- To learn the basics of python
-- To learn web application development using Python based framework
-\end{comment}
-
-{{{unit}}}
-| UNIT I | INTRODUCTION | 9 |
-Web Essentials: Web clients, web servers, communication protocol, HTTP
-request and response message; HTML5: Tables - Lists - Image -- Control
-and semantic elements, audio and video controls -- CSS3 - Inline,
-embedded and external style sheets -- Rule cascading -- Inheritance --
-Backgrounds -- Border Images -- Colors -- Shadows -- Text --
-Transformations -- Transitions -- Animations.
-
-{{{unit}}}
-| UNIT II | CLIENT SIDE PROGRAMMING | 9 |
-Introduction to Javascript -- Variables -- Data types -- Statements --
-Operators -- Functions --Objects -- Arrays -- Built-in objects --
-Event handling -- Introduction to DOM -- The document tree -- Node
-object -- methods and properties -- Document object -- Methods and
-properties -- Addition and deletion of elements -- Modifying element
-style.
-
-# Why study two server-side frameworks, NodeJS and Django? One will do.
-\begin{comment}
-Sir, Rationale behind the syllabus is as follows:
-First 2 units will cover an introduction to web application development followed by the concepts of client side scripting 
-Since the students have to study python framework in units 4  and 5, we thought it would be better to refresh python in 3rd unit as he might have done that course only during his 1st sem in UG curriculum
-\end{comment}
-
-\begin{comment}
-{{{unit}}}
-|UNIT III| INTRODUCTION TO PYTHON |9|
-Python interpreter and interactive mode -- Data types -- Expressions
--- Statements -- Control flow -- Functions -- Strings -- Arrays --
-Lists -- Tuples -- Sets -- Dictionaries -- Files -- Modules --
-Packages -- Exception handling -- Classes and objects
-\end{comment}
-
-{{{unit}}}
-| UNIT III | JAVASCRIPT BASED FRAMEWORK | 9 |
-Introduction to AngularJS -- Anatomy of AngularJS Application -- Data
-binding -- Model -- Module -- View -- Controller -- Expressions --
-Scope -- Table -- Select -- Form -- Validation -- DOM -- Event --
-Directives
 
 
 {{{unit}}}
-| UNIT IV | WEB APPLICATION USING DJANGO | 9 |
-Building a blog: Creating a project -- Running the
-development server -- Designing the model -- Setting up the database;
-Dynamic website basics -- MVC -- Django architecture - Defining and
-using the models: ORM -- URL configurations -- Modelling HTTP --
-Views/Logics - Templates and form processing.
+| UNIT I | INTRODUCTION | 5 |
+Web Essentials: Web clients, web servers, communication protocol, HTTP request and response message; HTML5: Tables - Lists - Image – Control and semantic elements – CSS3 - Inline, embedded and external style sheets – Rule cascading – Backgrounds – Colors – Text – Transformations – Transitions – Animations.
 
 {{{unit}}}
-|Unit V|Web Application using Advanced Django |9|
-Django applications: Photo gallery -- Content management system --
-Liveblog; Advanced Django programming: Customizing the admin --
-Syndication -- Generating downloadable files -- Enhancing Django’s ORM
--- Extending the template system; Advanced Django deployment.
+| UNIT II | CLIENT SIDE PROGRAMMING | 5 |
+Introduction to JavaScript – Variables – Data types– Statements – Operators – Functions – Objects – Arrays – Built-in objects – Event handling.
 
-\hfill *Total: 45*
+{{{unit}}}
+| UNIT III | ANGULARJS | 8 |
+Introduction to Angular – Typescript: Built-in types, classes – Components: Decorator, input, output – Built-in Directives: NgIf, NgFor, NgSwitch, NgStyle, NgClass – Forms: Using FormBuilder, Adding Validations  – HTTP API – Routing: Components of Routing, Nested routes – Services: Observables and RxJS. Implementation 
 
-\begin{comment}
+{{{unit}}}
+| UNIT IV | NODEJS & EXPRESSJS  | 6 |
+Getting Started with NodeJS; Introduction to Express; Saving time with Express: Scaffolding – views and layouts – Static files and views– Dynamic content in views; Request and Response Objects; Templating with Handlebars.
+
+{{{unit}}}
+|Unit V|PYTHON BASED FRAMEWORK - DJANGO  |6|
+Introduction to Django: Django Template System – Interacting with Database (Models) – Building Simple Django Applications – Message Board App – Blog App;  Form Processing; Configuring Heroku Account – Deploying Projects in Heroku: Newspaper App – Advanced Views and URL Confs.
+
+\hfill *Total: 30*
+
 ** Suggested Mini-projects
-1. Create a college website using HTML5 and CSS3
-2. Develop a MVC based web application for a Super Market Billing
-   System. Use cookies as part of the web application
-3. Develop online exam web application using AngularJS
-4. Develop Library Management System using MVC Django Architecture
-5. Develop Inventory Management System using Django Framework
-\end{comment}
+•	Create a college website using HTML5 and CSS3
+•	Develop a MVC based web application for a Super Market Billing System. 
+•	Develop online exam web application using AngularJS
+•	Develop a web application for personal website using ExpressJS
+•	Develop a web application for student information system that allows to perform CRUD operations using ExpressJS and MySQL
+•	Develop Library Management System using MVC Django Architecture
+
+\hfill *Total: 15*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Create website using HTML and CSS (K3)
-- Develop web application using java script based framework (K3)
-- Develop web applications using Python based framework (K3)
+- Build a website using HTML and CSS (K3). 
+- Outline client-side programming (K2)
+- Develop web application using AngularJS MVW framework (K3). 
+- Develop web application using java script-based framework (K3). 
+- Examine the web applications build using Python based framework (K4).
 
-** COURSE OUTCOMES (Batch 2021-2023)
-After the completion of this course, students will be able to:
-- Create a website using HTML and CSS (K3). 
-- Develop web applications using the javascript-based framework (K3).
-- Develop web applications using a Python-based framework (K6). 
 
 ** REFERENCES
-1. Jeffrey C Jackson, ``Web Technologies A Computer Science
-   Perspective'', Pearson Education, 2011. (unit I)
-2. Deitel and Deitel and Nieto, ``Internet and World Wide Web - How to
-   Program'', Prentice Hall, 5th Edition, 2011. (unit II)
-3. Brad Green, Shyam Seshadri, ``AngularJS'', First Edition, O’Reilly
-   Media, 2013. (unit III)
-4. Jeff forcier, Paul bissex and Wesley chun, ``Python web development
-   with Django'', Addison-Wesley Professional, 2008. (unit IV, V)
+1. Jeffrey C Jackson, Web Technologies A Computer Science Perspective, Pearson Education, 2011. (Unit I) 
+2.	Deitel and Deitel, Nieto, Internet and World Wide Web - How to Program, Prentice Hall, 5th Edition, 2011. (Unit II) 
+3.	Nate Murray, Felipe Coury, Ari Lerner, and Carlos , “Ng-book: The Complete Guide to Angular” ,  Fullstack.io, 2020 (Unit III)
+4.	Ethan Brown, “Development with Node and Express”, O’Reilly, 1st Edition, 2014 (Unit IV)
+5.	Adrian Holovaty, Jacob K Moss, “Django – The definitive Guide to Django”, Apress Publishers, 2008. (Unit V)
+
