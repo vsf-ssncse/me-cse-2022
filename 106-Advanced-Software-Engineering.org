@@ -22,9 +22,9 @@
 |Unit I | Software Engineering LifeCycle Review  |9| 
 Requirement analysis and specification --  
 Software Requirements Specification Document -- Object Oriented Design using UML Diagrams-- 
-Best Practices of Module Design -- Coupling and Cohesion --
-Software Testing -- Blackbox and Whitebox Techniques  -- 
-Agile Methodology -- Key Characteristics: Pair Programming -- Test-Driven Development
+Best Practices of Module Design: Coupling and Cohesion --
+Software Testing: Blackbox and Whitebox Techniques  -- 
+Agile Methodology: Pair Programming -- Test-Driven Development
 
 {{{unit}}}
 |Unit II|Software Architecture |9| 
@@ -34,8 +34,9 @@ filter- Event Driven -- Understanding Quality attributes - Tactics for achieving
 {{{unit}}}
 |Unit III| Software Design |9| 
 Object Oriented Design patterns --
-Model-view-controller -- Publish-subscribe -- Command --
-Strategy -- Observer -- Adapter -- Proxy -- Facade -- Factory Method
+Model-View-Controller -- Behavioural Patterns:
+Strategy -- Observer -- Structural patterns: Adapter -- Proxy -- Facade -- 
+Creational Patterns: Factory Method
 
 {{{unit}}}
 |Unit IV|DevOps|9|
@@ -63,8 +64,8 @@ After the completion of this course, students will be able to:
 
      
 ** References
-1. Rajib Mall, ``Fundamentals of Software Engineering'', 3rd edition,
-   PHI Learning Pvt Ltd, 2009 (Unit I)
+1. Rajib Mall, ``Fundamentals of Software Engineering'', 5th edition,
+   PHI Learning Pvt Ltd, 2018 (Unit I)
 2. Craig Larman, ``Applying UML and Patterns'', 3rd edition, Pearson
    Education, 2005 (Unit I)
 3. Mary Shaw, David Garlan, ``Software Architecture: Perspectives on
