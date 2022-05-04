@@ -22,7 +22,7 @@
 
 {{{unit}}}
 |Unit I|Project Management and Costing 	|9|
-Software Project Management approaches – Project Acquisition – Initiation – Planning – PERTCPM – Change Management – Project Closure – Agile Project Management– Effort Estimation: Estimation techinuques, Function Points, COCOMO, Cost Estimation, Staffing pattern 
+Software Project Management approaches – Project Acquisition – Initiation – Planning – PERTCPM – Change Management – Project Closure – Agile Project Management– Effort Estimation: Estimation techinuques, Function Points, COCOMO, Cost Estimation, Staffing pattern.
 
 {{{unit}}}
 |Unit II|Process Models & Lifecycle Management|9|
