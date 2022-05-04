@@ -7,7 +7,7 @@
 #+startup: showall
 {{{title-tab}}}
 | CODE | COURSE TITLE                | L | T | P | C |
-|      | WEB APPLICATION DEVELOPMENT | 3 | 0 | 0 | 3 |
+|      | WEB APPLICATION DEVELOPMENT | 2 | 0 | 2 | 3 |
 
 ** COURSE OBJECTIVES
 - To understand the concepts of web site development
