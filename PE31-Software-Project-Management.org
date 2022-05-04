@@ -22,7 +22,7 @@
 
 {{{unit}}}
 |Unit I|Project Management and Costing 	|9|
-Software Project Management approaches – Project Acquisition – Initiation – Planning – PERTCPM – Change Management – Project Closure – Agile Project Management– Cost Estimation: Function Points, COCOMO II, 
+Software Project Management approaches – Project Acquisition – Initiation – Planning – PERTCPM – Change Management – Project Closure – Agile Project Management– Effort Estimation: Estimation techinuques, Function Points, COCOMO, Cost Estimation, Staffing pattern 
 
 {{{unit}}}
 |Unit II|Process Models & Lifecycle Management|9|
@@ -56,10 +56,10 @@ Leadership styles – Developing Leadership skills – Leadership assessment –
 
 
 ** References
-1. Murali Chemuturi, Thomas M. Cagley, ``Mastering Software Project Management: Best Practices, Tools and Techniques'', J. Ross Publishing, 2010.
+1. Murali Chemuturi, Thomas M. Cagley, ``Mastering Software Project Management: Best Practices, Tools and Techniques'', J. Ross Publishing, 2010.(UNIT I)
 2. Rajib Mall, ``Fundamentals of Software Engineering'', 3rd edition, PHI Learning Pvt. Ltd., 2009.
 3. Ravindranath Pandian, ``Applied Software Risk Management A Guide for Software Project Managers'', Auerbach Publication, 2007. 
 4. Antonio Borghesi, Barbara Gaudenzi, ``Risk Management: How to Assess, Transfer and Communicate Critical Risks: Perspectives in Business Culture'',Illustrated Edition, Springer, 2012. 
 5. Norman Fenton, James Bieman, ``Software Metrics: A Rigorous and Practical Approach'', 3rd edition, CRC Press, 2015..
-6. Bob Hughes, Mike Cotterell, Rajib Mall, ``Software Project Management'', Sixth  Edition, Tata McGraw Hill, 2018.
+6. Bob Hughes, Mike Cotterell, Rajib Mall, ``Software Project Management'', Sixth  Edition, Tata McGraw Hill, 2018.(UNIT I)
 
