@@ -45,8 +45,10 @@ Case study: Migrating to Microservices
 
 {{{unit}}}
 |Unit V| MLOps	|9| 
-Introduction to MLOps -- MLOps Foundations -- MLOps for containers and Edge Devices --
-Continuous Delivery for ML Models -- AutoML
+Introduction to MLOps: What is MLOps? -- DevOps and MLOps -- An MLops Hierarchy of needs -- 
+MLOps Foundations: Machine Learning Key Concepts -- Build an MLOps Pipeline from Zero --  
+Continuous Delivery for ML Models: Packaging for ML Models -- Infrastructure as Code for Cintinuous Delivery of ML Models 
+using Cloud Pipelines -- AutoML
 
 
 \hfill *Total: 45*
@@ -57,7 +59,7 @@ After the completion of this course, students will be able to:
 - Apply suitable software architectural styles and tactics to achieve software quality requirements(K3)
 - Apply appropriate object-oriented design patterns to improve maintainability and software evolution (K3).
 - Define DevOps Practices(K2)
-- Apply MLOps Practices(K3).
+- Summarize MLOps Practices(K2).
 
      
 ** References
@@ -72,7 +74,7 @@ After the completion of this course, students will be able to:
 6. Eic Freeman and Elisabeth Freeman, "Head First Design Patterns", O'Reilly Media, 2007 (Unit III)
 7. Len Bass, Ingo Weber and Liming Zhu, ``DevOps: A Software
    Architect's Perspective'', Pearson Education, 2016 (Unit IV)
-8. Noah Gift, Alfredo Deza, "Practical MLOps", O'Reilly Media, 2021 (Unit V)
+8. Noah Gift, Alfredo Deza, "Practical MLOps", O'Reilly Media Shroff Publishers and Distributors pvt. Ltd, 2021 (Unit V)
 
  
 
