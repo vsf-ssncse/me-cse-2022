@@ -58,22 +58,23 @@ system.
 ** Course Outcomes
 After the completion of this course, students will be able to: 
 - Illustrate how the speech production is modelled (K2)
-- Extract features from the speech signal in both time and frequency domain (K3)
-- Developing a speech recognition system using statistical approach (K3)
+- Apply various techniques to extract features from speech signal in time domain (K3)
+- Choose the techniques to extract features from speech signal in frequency domain (K3)
+- Develop a speech recognition system using a statistical approach(K4)
 - Compare the various methods of speech synthesis (K2)
 
 ** References
 1. L. R. Rabiner and R. W. Schaffer, ``Digital Processing of Speech
-   signals'', Prentice Hall, 1978.
+   signals'', Pearson, 2009. (Unit 1-4)
 2. Xuedong Huang, Alex Acero, Hsiao-Wuen Hon, ``Spoken Language
    Processing – A guide to Theory, Algorithm and System Development'',
-   Prentice Hall PTR, 2001.
+   Prentice Hall PTR, 2001.(Unit - 5)
 3. Lawrence Rabiner and Biing-Hwang Juang, ``Fundamentals of Speech
    Recognition'', Prentice Hall Signal Processing Series, 1993.
 4. Thomas F.Quatieri, ``Discrete-Time Speech Signal Processing'',
-   Pearson Education, 2002.
+   Pearson Education, 2003.
 5. Ben Gold and Nelson Morgan, ``Speech and Audio Signal Processing'',
-   John Wiley and Sons Inc., Singapore, 2004.
+   John Wiley and Sons Inc., Singapore, 2006.
 
 
 
