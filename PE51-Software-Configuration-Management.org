@@ -1,0 +1,108 @@
+* 
+:properties:
+:author:
+:date:
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE | COURSE TITLE                      | L | T | P | E | C |
+|      | SOFTWARE CONFIGURATION MANAGEMENT | 3 | 0 | 0 | 0 | 3 |
+
+** R2021 CHANGES :noexport:
+1. A new syllabus
+
+** COURSE OBJECTIVES
+- Explain and demonstrate the key aspects of traditional configuration management
+- Understand and demonstrate the microservices application  
+- Explore and deploy the microservice in a container 
+- Install and explore Docker container networking services
+- Modify the configuration techniques using kubernetes and Docker swarm 
+
+{{{unit}}}
+|UNIT I | TRADITIONAL | 9 |
+Configuration management process : monitoring and control -- auditing -- testing -- incident and defect management -- problem management -- change management -- automation and tools -- lifecycle controls -- culture and organisation; Service asset and configuration management visions and strategies; Populating a CMDB  Process design : -- populate your CMDB; Case study monolithic application : Build the application -- Deploy the application.
+
+#+begin_comment
+...Included from Text book (1), chapter 6,8,10  
+...Included from Text book (2) chapter 11
+#+end_comment
+
+{{{unit}}}
+|UNIT II | MICROSERVICES | 9 |
+An Introduction to Microservices:What Are Microservices? ; Switching to Microservices:Cost Components; Interprocess Communication:Putting It All Together; Case Study: Migration to Microservices -- Planning for Migration -- Planning for Migration -- Applying Microservices Criteria -- Converting to Microservices -- Application Build and Deployment.
+
+#+begin_comment
+...Included from Text Book 2, chapter 1,2,3,12
+
+#+end_comment
+ 
+
+{{{unit}}}
+|UNIT III | CONTAINERS | 9 |
+Docker Containers:Virtual Machines -- Containers -- Docker Architecture and Components -- The Power of Docker: A Simple Example;
+Docker Interface:Key Docker Commands -- Dockerfile -- Docker Compose; Case Study: Containerizing a
+Helpdesk Application : Containerizing Microservices -- Deploying the Catalog Microservice.
+
+#+begin_comment
+...Included from Text Book 2, chapter 5.7.13
+#+end_comment
+ 
+
+{{{unit}}}
+|UNIT IV | NETWORKING AND DISCOVERY | 9 |
+
+Docker Networking: Bridge Mode Networking -- Host Mode Networking -- Container Mode Networking -- No Networking -- Wrapping It Up; Service Discovery ;  Service Registry.
+
+#+begin_comment
+...Included from Text Book 3, chapter   2, 4
+...Included from Text Book 2, chapter  9  
+#+end_comment
+
+{{{unit}}}
+|UNIT V | ORCHESTRATION  | 9 |
+Container Orchestration : Kubernetes -- Kubectl -- Master Node -- Worker Nodes -- Kubernetes Cluster;  Docker Swarm : Nodes -- Services -- Task -- Example: Swarm Cluster.
+
+#+begin_comment
+...Included from Text Book 2, chapter 9 
+#+end_comment
+
+** COURSE OUTCOMES
+Upon completion of the course, the student should be able to
+1. Explain traditional software configuration principles (K2)
+2. Develop  microservices (K3)
+3. Build a container and deploy a  microservice (K3)
+4. Explain networking concepts in containers (K2)
+5. Choose  configuration features using Kubernetes and Docker swarm (K3).
+
+      
+** TEXT BOOKS
+1. Shirley Lacy and David Norfolk, ``CONFIGURATION MANAGEMENT, Expert
+   guidance for IT service managers and practitioners``, Revised
+   edition, BCS Learning and Development Ltd, UK, 2014.
+2. Parminder Singh Kocher Boston, ``Microservices and Containers'',
+   Addison-Wesley, 2018.
+3. Michael Hausenblas, ``Docker Networking and Service Discovery'',
+   O'Reilly Publication, 2016.
+
+** REFERENCES
+1. Thomas Uphill, ``Mastering Puppet'', Second Edition,PACKT
+   Publishing, 2016
+2. Scott Coulton, ``Puppet for Containerization'', PACKT Publishing,
+   2016
+3. Cesar de la Torre, Bill Wagner, Mike Rouses, ``.NET Microservices:
+   Architecture for Containerized .NET Applications'', Microsoft
+   Corporation, V5.) Edition, 2020.
+
+
+** CO TO PO/PSO MAPPING 
+| PO/PSO | 1 |  2 |  3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 |
+|--------+---+----+----+---+---+---+---+---+---+----+----+----+---+---|
+| CO1    |   |  2 |  2 |   |   |   |   |   |   |    |    |    | 2 |   |
+| CO2    | 3 |  3 |  2 |   |   |   |   |   | 3 |  3 |  3 |    | 2 |   |
+| CO3    | 3 |  3 |  2 |   |   |   |   |   | 3 |  3 |  3 |    | 2 |   |
+| CO4    | 3 |  2 |  2 |   |   |   |   |   |   |    |    |    |   |   |
+| CO5    |   |  2 |  2 |   |   |   |   |   |   |    |    |    | 2 |   |
+|--------+---+----+----+---+---+---+---+---+---+----+----+----+---+---|
+| Score  | 9 | 12 | 10 |   |   |   |   |   | 6 |  6 |  6 |    | 8 |   |
+| Course | 3 |  3 |  2 |   |   |   |   |   | 3 |  3 |  3 |    | 2 |   |

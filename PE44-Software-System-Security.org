@@ -1,0 +1,109 @@
+* 
+:properties:
+:author: Dr. V. Balasubramanian and Dr. J. Bhuvana
+:date: 12-04-2021
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE             | L | T | P | E | C |
+| UCS2602 | SOFTWARE SYSTEM SECURITY | 3 | 0 | 0 | 0 | 3 |
+
+** R2021 CHANGES :noexport:
+New Syllabus
+
+#+tblfm: @>$3..@>$>='(ceiling (/ (* 1.0 (apply '+ '(@<<..@>>)))(length '(@<<..@>>))));N
+
+** COURSE OBJECTIVES
+- To study about the essentials of computer security
+- To acquire knowledge on encryption Techniques
+- To understand authentication applications
+- To learn various access control mechanisms
+- To understand different security policies
+
+{{{unit}}}         
+| UNIT I | OVERVIEW OF SECURITY AND  ENCRYPTION TECHNIQUES | 9 |
+Computer Security Concepts -- Security Architecture -- Attacks,
+Services and Mechanisms -- Fundamental Security Design Principles --
+Attack Surfaces and Attack Trees -- Algebraic structures -- Modular
+arithmetic -- Euclid's algorithm -- Congruence and matrices -Groups,
+Rings, Fields- Finite fieldsBlock Cipher -- Data Encryption Standard
+-- Advanced Encryption Standard -- Stream Ciphers and RC4 -- Cipher
+Block Modes of Operation
+ 
+{{{unit}}}      
+| UNIT II | PUBLIC KEY CRYPTOGRAPHY | 9 |
+Primes -- Primality Testing --Factorization -- Euler's totient
+function, Fermat's and Euler's Theorem -- Chinese Remainder Theorem --
+Exponentiation and logarithm -- Public-Key Cryptography and Message
+Authentication: Secure Hash Functions -- HMAC -- RSA -- Diffie-Hellman
+-- Elliptic curve arithmetic -- Elliptic curve cryptography
+
+{{{unit}}}      
+| UNIT III | Network Protocols | 9 |
+Protocols Using Shared Key Cryptography: Entity Authentication
+Protocols -- Server-Less Key Establishment -- Server-Based Key
+Establishment; Authentication and Key Transport Using Public Key
+Cryptography: Entity Authentication Protocols -- Key Transport
+Protocols; Key Agreement Protocols: Diffie-Hellman Key Agreement --
+Diffie-Hellman Protocols with Explicit Authentication
+
+{{{unit}}}
+| UNIT IV | Security Practice | 9 |
+Cloud and IoT security: Cloud Computing -- Cloud Security Concepts --
+Cloud Security Approaches; Transport Layer Security: TLS -- HTTPS --
+SSH; Electronic Mail security: PGP, S/MIME -- IP security -- Web
+Security; IP Security: IPSec
+
+
+{{{unit}}}
+| UNIT V |  SECURITY POLICIES             | 9 |
+The Nature of Security Policies -- Types of Security Policies -- The
+Role of Trust; Confidentiality policy:The Bell-LaPadula Model;
+Integrity policy: Clark-Wilson Integrity Model; Availability policy:
+Denial of Service Models; Hybrid policy: Chinese Wall Model
+
+
+\hfill *Total Periods: 45*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to 
+1. Examine symmetric and asymmetric ciphers (K3)
+2. Examine the different authentication schemes (K3)
+3. Outline the security mechanisms adapted in OS, Cloud and IoT  (K2)
+4. Explain the functionality of access control mechanism (K2)
+5. Compare and contrast various security policies (K3).
+
+** TEXT BOOKS
+
+1. William Stallings, Lawrie Brown, ``Computer Security Principles and
+   Practice'', Seventh Edition, Pearson, 2019. (Unit I, II)
+2. William Stallings, "Network Security Essentials: Applications and
+   Standards", Sixth edition, Pearson, 2017 (Unit IV)
+3. Colin Boyd, Anish Mathuria, Douglas Stebila, "Protocols For
+   Authentication And Key Establishment", Springer, 2020. (Unit III)
+5. Matt Bishop, ``Computer Security: Art and Science'', Second
+   edition, Addison Wesley, 2019 (Unit IV, V).
+
+
+** REFERENCES
+1. Salomon, David , ``Data Privacy and Security'', Springer
+2. Dorothy Elizabeth Rob, Ling Denning , ``Cryptography and data Security'',   ADDISON-WESLEY PUBLISHING COMPANY, 2003 
+3. Houbing Song , Glenn A. Fink , Sabina Jeschke ,  ``Security and Privacy in Cyber-Physical Systems: Foundations, Principles, and Applications'',  Wiley-IEEE Press, November 2017 
+4. Charlie Kaufman, Radia Perlman and Mike Speciner , ``Network Security: Private Communication in a Public World'', Second  Edition, Pearson Education, 2017.
+5. Wenliang Du, ``Computer Security: A Hands-on Approach'', CreateSpace Independent Publishing Platform, First Edition, 2017.
+6. William Stallings, ``Network Security Essentials: Applications and    Standards'', Sixth Edition, Pearson, 2017.
+7. Mauricio Arregoces, Maurizio Portolani, ``Data Center    Fundamentals'', Cisco Press, 2003.
+
+    
+** CO TO PO/PSO MAPPING
+| PO/PSO |  1 |  2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |  1 | 2 |
+|--------+----+----+---+---+---+---+---+---+---+----+----+----+----+---|
+| CO1    |  3 |  2 |   |   |   |   |   |   |   |    |    |    |  2 |   |
+| CO2    |  2 |  2 |   |   |   |   |   |   |   |    |    |    |  2 |   |
+| CO3    |  2 |  2 |   |   |   |   |   |   |   |    |    |    |  2 |   |
+| CO4    |  2 |  2 |   |   |   |   |   |   |   |    |    |    |  2 |   |
+| CO5    |  2 |  2 |   |   |   |   |   |   |   |    |    |    |  2 |   |
+|--------+----+----+---+---+---+---+---+---+---+----+----+----+----+---|
+| Score  | 11 | 10 |   |   |   |   |   |   |   |    |    |    | 10 |   |
+| Course |  3 |  2 |   |   |   |   |   |   |   |    |    |    |  2 |   |
