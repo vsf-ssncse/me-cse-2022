@@ -58,6 +58,6 @@ Leadership styles – Developing Leadership skills – Leadership assessment –
 2. Rajib Mall, ``Fundamentals of Software Engineering'', 3rd edition, PHI Learning Pvt. Ltd., 2009.(UNIT II)
 3. Ravindranath Pandian, ``Applied Software Risk Management A Guide for Software Project Managers'', Auerbach Publication, 2007. (UNIT III)
 4. Antonio Borghesi, Barbara Gaudenzi, ``Risk Management: How to Assess, Transfer and Communicate Critical Risks: Perspectives in Business Culture'',Illustrated Edition, Springer, 2012. (UNIT III)
-5. Norman Fenton, James Bieman, ``Software Metrics: A Rigorous and Practical Approach'', 3rd edition, CRC Press, 2015..
+5. Norman Fenton, James Bieman, ``Software Metrics: A Rigorous and Practical Approach'', 3rd edition, CRC Press, 2015.(UNIT IV)
 6. Bob Hughes, Mike Cotterell, Rajib Mall, ``Software Project Management'', Sixth  Edition, Tata McGraw Hill, 2018.(UNIT I)
 
