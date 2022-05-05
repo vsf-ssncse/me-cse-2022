@@ -20,7 +20,7 @@
 
 {{{unit}}}
 |Unit I | Software Engineering LifeCycle Review  |9| 
-Requirement analysis and specification --  
+Requirement Analysis and Specification --  
 Software Requirements Specification Document -- Object Oriented Design using UML Diagrams-- 
 Best Practices of Module Design: Coupling and Cohesion --
 Software Testing: Blackbox and Whitebox Techniques  -- 
@@ -41,8 +41,8 @@ Creational Patterns: Factory Method
 {{{unit}}}
 |Unit IV|DevOps|9|
 DevOps: Motivation-Cloud as a platform -- Operations -- Deployment
-Pipeline: Overall Architecture -- Building and Testing -- Deployment
-Case study: Migrating to Microservices
+Pipeline: Overall Architecture -- Building and Testing -- Deployment --
+Crosscutting concerns: Monitoring -- Security
 
 {{{unit}}}
 |Unit V| MLOps	|9| 
@@ -59,8 +59,8 @@ After the completion of this course, students will be able to:
 - Analyze the requirements and design software using UML diagrams to meet the specified requirements (K3)
 - Apply suitable software architectural styles and tactics to achieve software quality requirements(K3)
 - Apply appropriate object-oriented design patterns to improve maintainability and software evolution (K3).
-- Define DevOps Practices(K2)
-- Summarize MLOps Practices(K2).
+- Define the best practices of DevOps(K2)
+- Summarize the MLOps Practices(K2).
 
      
 ** References
