@@ -45,7 +45,7 @@ Leadership styles – Developing Leadership skills – Leadership assessment –
 ** Course Outcome
 
 - Summarize the various steps involved in software project management(K2)
-- Understand lifecycle management and choose an appropraite process model (K3)
+- Choose an appropriate process model and estimate project cost and effort required(K5)
 - Identify existing risk and perform risk assessment (K3)
 - Choose appropriate software metric for software project management (K3)
 - Outline leadership styles and team building. (K2)
