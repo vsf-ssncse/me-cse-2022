@@ -7,7 +7,7 @@
 #+startup: showall
 {{{title-tab}}}
 | CODE    | COURSE TITLE             | L | T | P | E | C |
-| UCS2602 | SOFTWARE SYSTEM SECURITY | 3 | 0 | 0 | 0 | 3 |
+| UCS2602 | SOFTWARE SECURITY        | 3 | 0 | 0 | 0 | 3 |
 
 ** R2021 CHANGES :noexport:
 New Syllabus
@@ -49,7 +49,7 @@ Protocols; Key Agreement Protocols: Diffie-Hellman Key Agreement --
 Diffie-Hellman Protocols with Explicit Authentication
 
 {{{unit}}}
-| UNIT IV | Security Practice | 9 |
+| UNIT IV | IoT and Cloud Security  | 9 |
 Cloud and IoT security: Cloud Computing -- Cloud Security Concepts --
 Cloud Security Approaches; Transport Layer Security: TLS -- HTTPS --
 SSH; Electronic Mail security: PGP, S/MIME -- IP security -- Web
@@ -57,7 +57,7 @@ Security; IP Security: IPSec
 
 
 {{{unit}}}
-| UNIT V |  SECURITY POLICIES             | 9 |
+| UNIT V |  Information Security                          | 9 |
 The Nature of Security Policies -- Types of Security Policies -- The
 Role of Trust; Confidentiality policy:The Bell-LaPadula Model;
 Integrity policy: Clark-Wilson Integrity Model; Availability policy:
@@ -68,11 +68,11 @@ Denial of Service Models; Hybrid policy: Chinese Wall Model
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Examine symmetric and asymmetric ciphers (K3)
-2. Examine the different authentication schemes (K3)
-3. Outline the security mechanisms adapted in OS, Cloud and IoT  (K2)
-4. Explain the functionality of access control mechanism (K2)
-5. Compare and contrast various security policies (K3).
+1. Understand the fundamentals of networks security, security architecture, threats and vulnerabilities, and Apply the different cryptographic operations of symmetric cryptographic algorithms (K3)
+2. Apply the different cryptographic operations of public key cryptography  (K3)
+3. Outline the authentication schemes and key distribution protocols   (K3)
+4. Outline the security mechanisms adapted in OS, Cloud and IoT  (K2)
+5. Explain the functionality of access control mechanisms, Compare and contrast various security policies  (K3).
 
 ** TEXT BOOKS
 
