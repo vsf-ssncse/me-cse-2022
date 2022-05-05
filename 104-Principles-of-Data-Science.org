@@ -1,113 +1,77 @@
-* <<<CP1204>>> DATA ANALYTICS
+* <<<CPXXXX>>> PRINCIPLES OF DATA SCIENCE
 :properties:
-:author: S. Rajalakshmi, R Priyadharsini
-:date: 28 June 2018
+:author: Dr. Y. V. Lokeswai
+:date: 02-May-2022
 :end:
 
 #+startup: showall
 
-   ** CO PO MAPPING 
-#+NAME: co-po-mapping
-|                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
-|                |    | K3 | K6  |  K6 |  K6 | K6  |     |     |     |     |      |      |     
-| CO1            | K2 |  2 |  1  |  1  |     |     |     |     |     |     |      |      |    
-| CO2            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |  
-| CO3            | K3 |  3 |  2  |  2  |     |     |     |     |     |     |      |      |    
-| CO4            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
-| CO5            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |   
-| CO6            | K5 |  3 |  3  |  3  |  3  |  3  |     |     |     |     |      |   1  |  
-| Total          |    | 17 |  12 |  12 |  9  |  9  |     |     |     |     |      |   1  |   
-| Course Mapping |    |  3 |  2  |  2  |  3  |  3  |     |     |     |     |      |   1  |     
 
 {{{credits}}}
 |L|T|P|C|
 |3|0|0|3|
 
 ** Course Objectives
-- To understand the competitive advantages of data analytics.
-- To understand data frameworks.
-- To learn data analysis methods.
-- To learn stream computing.
-- To gain knowledge on Hadoop related tools such as HBase, and Hive
-  for data analytics.
+- To learn fundamentals of Data Science using Python.
+- To develop python program for analysis of data using Python libraries.
+- To develop python programs for manipulating and visualizing the data.
+- To understand probability and Statistics for the data.
+- To be familiar with supervised and unsupervised methods in machine learning.
+
 
 {{{unit}}}
-|Unit I|Introduction to Big Data|8| 
-Big Data: Definition -- Characteristic features -- Big data
-applications -- Big data vs traditional data -- Risks of big data --
-Structure of big data; Web data; Evolution of analytic scalability;
-Modern Data Analytic Tools: R programming.
+|Unit I|INTRODUCTION TO DATA SCIENCE |9| 
+Introduction: Need for data science –- Benefits and uses -– Facets of data–Data science process: Retrieving data –- Cleansing, integrating and transforming data –- Exploratory Data Analysis –- Build the models –- Presenting findings and building applications.
 
 {{{unit}}}
-|Unit II|Hadoop Framework|9| 
-Distributed File Systems: Large-scale file system organization -- HDFS
-concepts -- MapReduce execution -- Algorithms using MapReduce.
+|Unit II|PYTHON LIBRARIES FOR DATA SCIENCE |9| 
+NumPy Basics: Arrays and Vectorized Computation -- The NumPy ndarray -- Creating ndarrays -- Data Types for ndarrays -- Arithmetic with NumPy Arrays -- Basic Indexing and Slicing -- Boolean Indexing -- Transposing Arrays and Swapping Axes. Introduction to pandas Data Structures: Series, DataFrame -- Essential Functionality: Dropping Entries -- Indexing, Selection, and Filtering -- Function Application and Mapping- Sorting and Ranking. Summarizing and Computing Descriptive Statistics -- Unique Values, Value Counts, and Membership. Reading and Writing Data in Text Format.
 
 {{{unit}}}
-|Unit III|Data Analysis |11| 
-Statistical Methods: Regression modelling -- Multivariate analysis;
-Classification: SVM & Kernel methods; Cluster Analysis: Types of data
-in cluster analysis -- Partitioning methods -- Hierarchical methods --
-Density based methods -- Model based clustering methods -- Clustering
-high dimensional data.
+|Unit III|DATA CLEANING, PREPARATION AND VISUALIZATION |9| 
+Data Cleaning and Preparation: Handling Missing Data -- Data Transformation: Removing Duplicates, Transforming Data Using a Function or Mapping, Replacing Values, Detecting and Filtering Outliers- String Manipulation: Vectorized String Functions in pandas. Plotting with pandas and matplotlib: Line Plots, Bar Plots, Histograms and Density Plots, Scatter or Point Plots.
 
 {{{unit}}}
-|Unit IV|Mining Data Streams |8| 
-Streams: Concepts -- Stream data model and architecture -- Sampling
-data in a stream; Mining Data Streams: Filtering streams -- Counting
-distinct elements in a stream -- Estimating moments -- Counting
-oneness in a window -- Decaying window; Real Time Analytics Platform
-(RTAP) Applications; Case Studies: Real time sentiment analysis.
+|Unit IV|STATISTICAL ANALYSIS |9| 
+Introduction –- Data Preparation –- Exploratory Data Analysis: Data summarization –- Data distribution –- Outlier Treatment –- Measuring asymmetry –- Continuous distribution; Estimation: Mean –- Variance –- Sampling –- Covariance –- Correlation, Measuring the Variability in Estimates: Point estimates –- Confidence intervals; Hypothesis Testing: Using confidence intervals –- Using p-values
+
 
 {{{unit}}}
-|Unit V|Big Data Frameworks|9|
-Introduction to NoSQL -- MongoDB -- Aggregate data models -- Hbase:
-Data model and implementations -- Hbase clients; Hive: Data types and
-file formats -- HiveQL data definition -- HiveQL data manipulation --
-HiveQL queries.
+|Unit V|DATA ANALYSIS |9|
+Machine learning –- Modeling Process –- Training model –- Validating model –- Predicting new observations –- Supervised learning algorithms -– Linear Regression -- Unsupervised learning algorithms –- K Means Clustering –- Reinforcement learning.
 
 \hfill *Total: 45*
 
 ** Course Outcomes
-After the completion of this course, students will be able to: 
-- Understand how to leverage the insights from big data analytics   (K2).
-- Solve applications using statistical and data analytic methods (K3).
-- Perform analytics using streaming data (K3).
-- Develop applications using Hadoop related tools and R Programming   (K4).
-- Use database frameworks like MongoDB, Hive and Hbase for data  analysis (K3).
-  
-** Course Outcomes (Batch 2021-2023)
-After the completion of this course, students will be able to: 
-- Explain how to leverage the insights from big data analytics (K2). 
-- Solve applications using statistical and data analytic methods (K3). 
-- Develop analytics using streaming data (K3). 
-- Develop applications using Hadoop-related tools and R Programming (K3). 
-- Develop databases using MongoDB, Hive, and HBase for data analysis (K3).
-- Adopt state-of-the-art techniques and tools to analyze applications created using database 
-        frameworks (MongoDB, Hive, and HBase) and programming tools (R and Hadoop) (K5)
+After the completion of this course, students will be able to
+- Demonstrate the need and the fundamental concepts of data science. (K2)
+- Develop Python programs to perform analysis on data using Python libraries. (K3)
+- Develop Python programs for data preparation and visualizing the data. (K3)
+- Interpret the various statistical inferences (K2)
+- Develop applications to demonstrate data analysis in practice (K3)
 
       
-** References
-1. Bill Franks, ``Taming the Big Data Tidal Wave: Finding
-   Opportunities in Huge Data Streams with Advanced Analytics'', John
-   Wiley & Sons, 2012.
-2. Anand Rajaraman and Jeffrey David Ullman, ``Mining of Massive
-   Datasets'', Cambridge University Press, 2012.
-3. Roger D. Peng, ``R programming for Data Science'', 5th edition,
-   LeanPub, 2016.
-4. Michael Berthold and David J. Hand, ``Intelligent Data Analysis'',
-   Springer, 2007.
-5. Tom White, ``Hadoop: The Definitive Guide -- Storage and Analysis
-   at Internet Scale'', 4th Edition, O'Reilly, 2015.
-6. E. Capriolo, D. Wampler and J. Rutherglen, ``Programming Hive'',
-   O'Reilly, 2012.
-7. Lars George, ``HBase: The Definitive Guide'', O'Reilly, 2011.
-8. P. J. Sadalage and M. Fowler, ``NoSQL Distilled: A Brief Guide to
-   the Emerging World of Polyglot Persistence'', Addison - Wesley
-   Professional, 2012.
-9. Kristina Chodorow, ``MongoDB: The Definitive Guide -- Powerful and
-   Scalable Data Storage'', 2nd Edition, O'Reilly, 2013.
-   
+** TEXT BOOKS
+1. Davy Cielen, Arno D B Meysman, Mohamed Ali, ``Introducing Data Science – Big data, Machine Learning, and more using Python tools'', Manning Publications Co, 2016. (Unit I)
+2. Wes McKinney, ``Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython”, O’Reilly, 2nd Edition,2018. (Unit II & III)
+3. Laura Igual, Santi Segua, ``Introduction to Data Science – A Python Approach to Concepts, Techniques and Applications'', Springer Nature, 2017 (Unit IV & V)
 
-   
+** REFERENCE BOOKS
+1. Jake VanderPlas, ``Python Data Science Handbook: ``Essential Tools for Working with Data'', O'Reilly Media, 2016.
+2. Foster Provost, Tom Fawcett, ``Data Science for Business'', O'Reilly Media, 2013
+3. Rachel Schutt, Cathy O'Neil, ``Doing Data Science'', O'Reilly Media, 2016
+
+      
+   ** CO PO MAPPING 
+#+NAME: co-po-mapping
+|                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
+|                |    | K3 | K6  |  K6 |  K6 | K6  |     |     |     |     |      |      |     
+| CO1            | K2 |  2 |  1  |     |     |     |     |     |     |     |      |      |    
+| CO2            | K3 |  3 |  2  |     |     |  2  |     |     |     |     |      |      |  
+| CO3            | K3 |  3 |  2  |     |     |  2  |     |     |     |     |      |      |    
+| CO4            | K2 |  2 |  1  |     |     |  1  |     |     |     |     |      |      |    
+| CO5            | K3 |  3 |  2  |     |     |  2  |     |     |     |     |      |      |   
+| Total          |    | 13 |  8  |     |     |  7  |     |     |     |     |      |      |   
+| Course Mapping |    |  3 |  2  |     |     |  2  |     |     |     |     |      |      |     
+
 

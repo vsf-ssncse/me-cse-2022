@@ -1,7 +1,7 @@
 * <<<CP1322>>> SOFTWARE PROJECT MANAGEMENT
 :properties:
-:author:  A Chamundeeswari
-:date: 27 June 2018
+:author:  Angel Deborah S
+:date: 27 April 2022   
 :end:
 
 #+startup: showall
@@ -18,66 +18,46 @@
 - Appreciate the use of metrics for software project management
 - Know the challenges in people management
 
-#+BEGIN_COMMENT
-Software project management course describes the key aspects of a
-managerial process in Software organization. It addresses the topics
-related to project planning, estimation, and scheduling. The more
-prominent software development practices, Agile and DevOps software
-development is introduced in this course. The major software
-activities security and risk management concerned with software
-development are also covered. This course introduces the monitoring
-skill and performance evaluation of the team which is very vital for
-the Software project managers.
-#+END_COMMENT
+
 
 {{{unit}}}
-|Unit I|Project Management and Costing 	|9|
+|Unit I|Project Management |9|
 Software Project Management: Approaches - Project acquisition - Initiation - Planning - Execution - Execution control - Change management - Scheduling - Project closure
-
 {{{unit}}}
-|Unit II|Life Cycle Models and Quality Management|9|
+|Unit II|Process Models & Lifecycle Management|9|
 Introduction to life cycle models - Agile development models - Extreme programming - Scrum; Project planning - Metrics of project size estimation - Project estimation techniques - Empirical estimation techniques - COCOMO  - Halstead - Staffing level; ISO 9000 - SEI CMM -SPICE - PSP
 
 {{{unit}}}
 |Unit III|Risk Management|9|
-Perspectives of Risk Management - Risk Definition - Risk Categories – Risk Assessment - Approaches, techniques and good practices - Risk Identification - Analysis - Prioritization - Risk Control - Planning -- Resolution - Monitoring - Risk Retention – Risk Transfer -- Failure Mode and Effects Analysis (FMEA) - Operational Risks – Supply Chain Risk Management.
+Perspectives of Risk Management - Risk Definition – Risk Categories – Risk Assessment: Approaches, techniques and good practices – Risk Identification / Analysis / Prioritization – Risk Control (Planning / Resolution / Monitoring) – Risk Retention – Risk Transfer - Failure Mode and Effects Analysis (FMEA) – Operational Risks – Supply Chain Risk Management.
 
 {{{unit}}}
 |Unit IV|Metrics|9|
-Need for software metrics – Scope – Basics – Framework for software measurement - Classification of software metrics: Product metrics - Size metrics - Complexity metrics -Halstead's product metrics - Quality metrics - Process metrics - Empirical models - Statistical models - Theory-based models - Composite models - Reliability models - Measuring internal and external product attributes.
+Need for Software Metrics: scope, basics, framework for software measurement - Product Metrics: Size Metrics, Complexity Metrics, Halsteads Product Metrics, Quality Metrics- Process metrics: Empirical Models, Statistical Models,Theory based Models,Composite Models, Reliability Models- Measuring Internal and External
+Product Attributes.
 
 {{{unit}}}
 |Unit V|People Management|9|
-Managing people in software environment: Introduction - Understanding behaviour- Organizational behaviour- Selecting the right person- Oldham-Hackman job characteristics model; Stress: Stress management - Health and safety - Ethical and professional concerns; Working in teams: Becoming a team - Decision making - Organization and team structure -  Coordination dependencies -- Dispersed and virtual teams - Communication genres - Communication plans - Leadership.
+Leadership styles – Developing Leadership skills – Leadership assessment – Motivating People – Organizational strategy – Management – Team building – Delegation – Art of Interviewing People - Team Management – Rewarding - Client Relationship Management.
 
 \hfill *Total: 45*
 
 ** Course Outcome
 
-- Identify the various elements of software management process framework (K2)
-- Use available open source estimation tools for cost estimation (K3)
-- Identify existing risk and perform risk assessment (K2)
-- Design a software metric for software project management (K3)
-- Modify the art of interviewing people for a given scenario (K3)
+- Summarize the various steps involved in software project management(K2)
+- Understand lifecycle management and choose an appropraite process model (K3)
+- Identify existing risk and perform risk assessment (K3)
+- Choose appropriate software metric for software project management (K3)
+- Outline leadership styles and team building. (K2)
 
 
-#+BEGIN_COMMENT
-Upon completion of the course, the student should be able to:
-- Apply management skills and techniques to develop commercial software projects
-- Selecting a process model for software development.
-- Produce cost to manage the software development and maintenance.
-- To develop a project using agile and devops software development practices
-- Study the activities of security and risk in various types of software projects.
-- Balancing the software development  activities to deliver a product.
-- Perform the managerial process of measuring the people involved in development. 
-#+END_COMMENT
 
 
 ** References
-1. Murali Chemuturi, Thomas M. Cagley, ``Mastering Software Project Management: Best Practices, Tools and Techniques'', J. Ross Publishing, 2010.(Unit 1)
-2. Rajib Mall, ``Fundamentals of Software Engineering'', 3rd edition, PHI Learning Pvt. Ltd., 2009.(Unit 2)
-3. Ravindranath Pandian, ``Applied Software Risk Management A Guide for Software Project Managers'', Auerbach Publication, 2007. (Unit 3)
-4. Antonio Borghesi, Barbara Gaudenzi, ``Risk Management: How to Assess, Transfer and Communicate Critical Risks: Perspectives in Business Culture'',Illustrated Edition, Springer, 2012. (Unit 3)
+1. Murali Chemuturi, Thomas M. Cagley, ``Mastering Software Project Management: Best Practices, Tools and Techniques'', J. Ross Publishing, 2010.(UNIT I)
+2. Rajib Mall, ``Fundamentals of Software Engineering'', 3rd edition, PHI Learning Pvt. Ltd., 2009.(UNIT II)
+3. Ravindranath Pandian, ``Applied Software Risk Management A Guide for Software Project Managers'', Auerbach Publication, 2007. (UNIT III)
+4. Antonio Borghesi, Barbara Gaudenzi, ``Risk Management: How to Assess, Transfer and Communicate Critical Risks: Perspectives in Business Culture'',Illustrated Edition, Springer, 2012. (UNIT III)
 5. Norman Fenton, James Bieman, ``Software Metrics: A Rigorous and Practical Approach'', 3rd edition, CRC Press, 2015..
-6. Bob Hughes, Mike Cotterell, Rajib Mall, ``Software Project Management'', Sixth  Edition, Tata McGraw Hill, 2018.
+6. Bob Hughes, Mike Cotterell, Rajib Mall, ``Software Project Management'', Sixth  Edition, Tata McGraw Hill, 2018.(UNIT I)
 
