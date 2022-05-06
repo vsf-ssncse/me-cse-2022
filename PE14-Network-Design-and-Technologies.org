@@ -1,104 +1,56 @@
-* <<<PCP1102>>> NETWORK DESIGN AND TECHNOLOGIES 
+* <<<PCP1102>>> ADVANCED NETWORKS
 :properties:
-:author: S. V. Jansi Rani
-:date: 12 July 2018
+:author: V. S. Felix Enigo
+:date: 06 May 2022
 :end:
 
 #+startup: showall
 
 {{{credits}}}
 | L | T | P | C |
-| 2 | 0 | 2 | 3 |
+| 2 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To understand the principles of network design. 
-- To explore various technologies in the wireless domain.
-- To study about 3G, 4G  and cellular networks.
+- To study the network fundamentals.
+- To explore various technologies in the wireless domain. 
+- To study about Cellular and 4G networks.
 - To understand the paradigm of software defined networks.
-- To design networks using simulator.
+
+{{{unit}}}
+| Unit I | Network Fundamentals | 9 |
+Introduction –- Networking Hardware -– Network Cabling -– Wireless Networking -– IP addressing -– Protocols -– The Internet
+
+{{{unit}}}
+| Unit II | Wireless Networks | 9 |
+IEEE802.16 and WiMAX -- Security -- Advanced 802.16 functionalities -- Mobile WiMAX:802.16e -- Network infrastructure -- WLAN Configurations -- Management operations -- IEEE 802.11e and WMM – Quality of Service
+
+{{{unit}}}
+| Unit III | Cellular Networks | 9 |
+GSM Introduction –- Mobility management and call control -– GPRS State model -– Network elements -– Mobility management and session management -- Small Screen Web Browsing over GPRS and EDGE -– MMS over GPRS
+
+{{{unit}}}
+| Unit IV | 4G Networks | 9 |
+LTE -- Network architecture and interfaces -- Mobility management and power optimization -- LTE security architecture -- Interconnection
+with UMTS and GSM -- 4G networks and composite radio environment -- Protocol boosters -- Hybrid 4G wireless networks protocols.
+
+{{{unit}}}
+| Unit V | Software Defined Networks | 9 |
+Introduction -- Centralized and distributed control and data planes –- OpenFlow -- Wire protocol – Hybrid Approaches – SDN Controllers.  
+
+
+\hfill *Total: 45*
+
+** References
+1. James Bernstein, “Networking made Easy”, 2018. (Unit - I) 
+2. Martin Sauter, ``From GSM to LTE, An Introduction to Mobile Networks and Mobile Broadband'', Wiley, 2014. (Unit – II, III, IV)
+3. Savo G Glisic, ``Advanced Wireless Networks -- 4G Technologies'',   John Wiley & Sons, 2006. (Unit – IV)
+4. Thomas D. Nadeau and Ken Gray, ``SDN -- Software Defined Networks'',    O'Reilly Publishers, 2013. (Unit – V)
+
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Identify the components required for designing a network (K2).
-- Design a network using different wireless networking technologies (K3).
-- Analyze the various protocols of 3G, 4G and cellular networks (K3).
-- Identify the use of software defined networks (K3).
-- Design and experiment various networks using simulator (K4).
-
-** Course Outcomes (Batch 2021-2023)
-
-After the completion of this course, students will be able to:
-- Outline the components required for designing a network (K2).
-- Develop a network using different wireless networking technologies (K3).
-- Experiment with various protocols of 3G, 4G and cellular networks (K3).
-- Make use of software defined networks (K3).
-- Analyze various networks using a simulator (K4).
-
-#+NAME: co-po-mapping
-
-|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 |   
-|                |    | K3  |  K6 | K6  |  K6 | K6  |     |     |     |     |      |      |     
-| CO1            | K2 | 2   |   1 |     |     |     |     |     |     |     |      |      |     
-| CO2            | K3 | 3   |   2 |     |  2  |     |     |     |     |     |      |      |      
-| CO3            | K3 | 3   |   2 |     |     |     |     |     |     |     |      |      |      
-| CO4            | K3 | 3   |     |     |     |     |  2  |     |     |     |      |      |      
-| CO5            | K4 | 3   |   2 |  2  |     |  2  |     |     |     |     |    3 |      |          
-| Score          |    | 14  |   7 |  2  |  2  |  2  |  2  |     |     |     |    3 |      |      
-| Course Mapping |    | 3   |   2 |  2  |  2  |  2  |  2  |     |     |     |    3 |      |      
-
-
-{{{unit}}}
-| Unit I | Network Design | 6 |
-OSI Model -- Review of Protocols -- LAN cabling 
-topologies -- Ethernet switches, routers, firewalls and L3 switches --
-Remote access technologies and devices -- Core networks and
-distribution networks.
-
-{{{unit}}}
-| Unit II | Wireless Networks | 6 |
-IEEE802.16 and WiMAX -- Security -- Advanced 802.16 functionalities --
-Mobile WiMAX:802.16e -- Network infrastructure -- WLAN --
-Configuration -- Management operation.
-
-{{{unit}}}
-| Unit III | Cellular Networks | 6 |
-GSM -- Mobility management and call control -- The Mobile Device --
-The SIM card -- GPRS -- Network elements -- Mobility management and
-session management.
-
-{{{unit}}}
-| Unit IV | 4G Networks | 6 |
-LTE -- Network architecture and interfaces -- Mobility management and
-power optimization -- LTE security architecture -- Interconnection
-with UMTS and GSM -- 4G networks and composite radio environment --
-Protocol boosters -- Hybrid 4G wireless networks protocols.
-
-{{{unit}}}
-| Unit V | Software Defined Networks | 6 |
-Introduction -- Centralized and distributed control and data planes --
-Open flow -- Wire protocol -- Architecture -- SDN controller
-framework.
-
-** Suggestive Exercises
-1. Establishing LAN
-2. Creation of Virtual LAN
-3. Simulation of Wired networks
-4. Simulation of Wireless networks with access points
-5. Analyzing the packet flow using  Wireshark Tool
-6. Simulation of Routing Protocol RIP
-7. Simulation of Routing Protocol OSPF
-8. Simulation of interdomain redistribution of RIP- OSPF
-9. Creation of Access Control List in the server firewall
-
-\hfill *Total: 60*
-
-  
-** References
-1. Larry Peterson and Bruce Davie, ``Computer Networks: A Systems
-   Approach'', 5th edition, Morgan Kauffman, 2011
-2. Martin Sauter, ``From GSM to LTE, An Introduction to Mobile
-   Networks and Mobile Broadband'', Wiley, 2014.
-3. Savo G Glisic, ``Advanced Wireless Networks -- 4G Technologies'',
-   John Wiley & Sons, 2007.
-4. Thomas D. Nadeau and Ken Gray, ``SDN -- Software Defined Networks'',
-   O'Reilly Publishers, 2013.
+- Explain the fundamentals of networking (K2).
+- Develop networks using different wireless network technologies (K3).
+- Analyse the working of GSM network (K4)
+- Analyse the use of various 4G Networks (K4).
+- Demonstrate the working of software defined networks (K2).
