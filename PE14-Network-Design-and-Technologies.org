@@ -1,4 +1,4 @@
-* <<<PCP1102>>> ADVANCED NETWORKS
+* <<<PE>>> ADVANCED NETWORKS
 :properties:
 :author: V. S. Felix Enigo
 :date: 06 May 2022
